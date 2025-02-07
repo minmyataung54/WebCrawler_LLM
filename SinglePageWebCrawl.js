@@ -25,7 +25,7 @@ async function scrapePage(url, index) {
             throw new Error(`Content is empty for URL: ${url}`);
         }
         content = content.replace(/\s+/g, ' ');
-        // Generate unique filename for each URL
+        
         const filename = `New_content_${index + 1}.txt`;
         const filePath = path.join(__dirname, filename);
 
@@ -36,7 +36,7 @@ async function scrapePage(url, index) {
     }
 }
 
-// Main function to process all URLs
+
 async function processUrls() {
     const urls = readUrlsFromFile(filePath);
     if (urls.length === 0) {
