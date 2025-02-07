@@ -2,7 +2,8 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
-const url = "https://myanmar-now.org/mm/news/category/news/";
+// const url = "https://www.rfa.org/burmese/news";
+const url = "https://www.rfa.org/burmese/news/story_archive?b_start:int=2400&year=2024";
 const totalPage = 200;
 
 async function scrapePage(url,page) {
@@ -16,12 +17,12 @@ async function scrapePage(url,page) {
         const postdata = $.extract({
             post: [
                 {
-                    selector: "li.post-item",
+                    selector: "div.sectionteaser.archive",
                     value: {
-                        title: "h2.post-title",
-                        date: "span.date",
+                        title: "span.no_media",
+                        date: "span.story_date",
                         link: {
-                            selector: "a.more-link",
+                            selector: "a",
                             value: "href",
                         },
                     },
@@ -56,4 +57,13 @@ async function scrapePage(url,page) {
     }
 }
 
-scrapePage(url, 1);
+async function firstLoader(url){
+    const { data } = await axios.get(url);
+    const $ = cheerio.load(data);
+
+    const nextUrl = $("div.gotoarchive > a").attr("href");
+    console.log(nextUrl);
+}
+
+firstLoader(url);
+// scrapePage(url, 1);
