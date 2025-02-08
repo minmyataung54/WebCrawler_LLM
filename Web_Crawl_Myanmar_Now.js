@@ -6,7 +6,7 @@ const url = "https://myanmar-now.org/mm/news/category/news/";
 const totalPage = 200;
 
 // Define a filter date (e.g., filter articles from 2024)
-const filterDate = new Date("2024-12-20");
+const filterDate = new Date("2024-01-01");
 
 async function scrapePage(url, page) {
     if (page > totalPage) {
@@ -35,8 +35,19 @@ async function scrapePage(url, page) {
 
         console.log(postdata);
 
-        // Save filtered data
-        fs.appendFileSync("MyanmarNow.txt", `${JSON.stringify(postdata)}\n`, "utf8");
+        const existingData = fs.existsSync("MyanmarNow.json") 
+        ? JSON.parse(fs.readFileSync("MyanmarNow.json")) 
+        : [];
+
+    const updatedData = [...existingData, ...postdata];
+
+// Sort by date (newest first)
+        updatedData.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+// Save as a formatted JSON file
+        fs.writeFileSync("MyanmarNow.json", JSON.stringify(updatedData, null, 2), "utf8");
+
+        console.log("Data saved and sorted successfully in MyanmarNow.json");
 
         // Get the next page URL
         const nextUrl = $("span.last-page.first-last-pages > a").attr("href");

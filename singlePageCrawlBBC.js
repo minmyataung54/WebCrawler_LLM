@@ -3,7 +3,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 
 // BBC Burmese URL
-const url = "https://www.bbc.com/burmese/articles/cn5wrn30eryo";
+const url = "https://www.bbc.com/burmese/articles/cx244l5743xo";
 const totalPage = 200;
 
 // Define date filter (e.g., only scrape articles from 2024)

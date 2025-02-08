@@ -7,7 +7,7 @@ const url = "https://www.bbc.com/burmese/topics/c404v08p1wxt";
 const totalPage = 200;
 
 // Define date filter (e.g., only scrape articles from 2024)
-const filterDate = new Date("2024-10-20"); // Change this to your desired date
+const filterDate = new Date("2024-09-01"); // Change this to your desired date
 
 async function scrapePage(baseUrl , url, page) {
     if (page > totalPage) {
@@ -36,8 +36,10 @@ async function scrapePage(baseUrl , url, page) {
 
         console.log(postdata);
 
-        // Save filtered data
-        fs.appendFileSync("BBC.txt", `${JSON.stringify(postdata)}\n`, "utf8");
+        
+        const existingData = fs.existsSync("BBC.json") ? JSON.parse(fs.readFileSync("BBC.json")) : [];
+        const updatedData = [...existingData, ...postdata];
+        fs.writeFileSync("BBC.json", JSON.stringify(updatedData, null, 2), "utf8");
 
         // Get the next page URL
         const nextUrl = $('nav > span > a[aria-labelledby="pagination-next-page"]').attr("href");
