@@ -10,6 +10,8 @@ const filePath = "BBC.json";
 // Define date filter (e.g., only scrape articles from 2024)
 const filterDate = new Date("2024-09-01"); // Change this to your desired date
 
+const postdata = [];
+
 async function scrapePage(baseUrl , url, page) {
     try {
         const { data } = await axios.get(url);
