@@ -4,11 +4,12 @@ const fs = require("fs");
 
 // BBC Burmese URL
 const url = "https://mawkun.com/category/%e1%80%9e%e1%80%90%e1%80%84%e1%80%ba%e1%80%b8/";
-const totalPage = 800;
+const totalPage = 200;
 const filePath = "Mawkun.json";
 
 // Define date filter (e.g., only scrape articles from 2024)
-const filterDate = new Date("2024-09-01"); // Change this to your desired date
+const filterEndDate = new Date("2024-12-31"); // Change this to your desired date
+const filterStartDate = new Date("2024-01-01"); // Change this to your desired date
 
 const postdata = [];
 
@@ -29,7 +30,7 @@ async function scrapePage(baseUrl , url, page) {
                 const postDate = new Date(dateFormat);
 
                 // Filter only articles after the filterDate
-                if (postDate >= filterDate) {
+                if (postDate >= filterStartDate && postDate <= filterEndDate) {
                     postdata.push({ title, date: postDate.toISOString(), link });
                 }
             }
@@ -45,7 +46,8 @@ async function scrapePage(baseUrl , url, page) {
         // Get the next page URL
         const nextUrl = $('a.next').attr("href");
         
-        if (nextUrl && postdata.length > 0 && page < totalPage) {
+        // if (nextUrl && postdata.length > 0 && page < totalPage) {
+        if (nextUrl && page < totalPage) {
             console.log("Next page:", nextUrl);
             scrapePage(baseUrl , nextUrl, page + 1);
         }else{
@@ -53,7 +55,14 @@ async function scrapePage(baseUrl , url, page) {
             // Save filtered data
             console.log(postdata);
             
-            fs.appendFileSync(filePath, `${JSON.stringify(postdata)}\n`, "utf8");
+            fs.appendFileSync(filePath, `${JSON.stringify({
+                posts:postdata,
+                meta:{
+                    totalPosts:postdata.length,
+                    startDate:filterStartDate,
+                    endDate:filterEndDate
+                }
+            })}\n`, "utf8");
         }
 
     } catch (error) {
