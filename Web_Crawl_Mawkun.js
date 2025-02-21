@@ -4,12 +4,12 @@ const fs = require("fs");
 
 // BBC Burmese URL
 const url = "https://mawkun.com/category/%e1%80%9e%e1%80%90%e1%80%84%e1%80%ba%e1%80%b8/";
-const totalPage = 200;
+const totalPage = 520;
 const filePath = "Mawkun.json";
 
 // Define date filter (e.g., only scrape articles from 2024)
 const filterEndDate = new Date("2024-12-31"); // Change this to your desired date
-const filterStartDate = new Date("2024-01-01"); // Change this to your desired date
+const filterStartDate = new Date("2018-12-01"); // Change this to your desired date
 
 const postdata = [];
 
