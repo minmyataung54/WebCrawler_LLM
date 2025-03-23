@@ -1,0 +1,21 @@
+{
+    "name": "helloworld",
+    "description": "Simple hello world sample in Node",
+    "version": "1.0.0",
+    "private": true,
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "author": "Google LLC",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "@google/generative-ai": "^0.24.0",
+        "dotenv": "^16.4.7",
+        "express": "^4.17.1"
+    }
+}
