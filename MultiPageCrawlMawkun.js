@@ -6,18 +6,27 @@ const data = fs.readFileSync('Mawkun.json', 'utf-8');
 const jsonData = JSON.parse(data);
 const posts = jsonData.posts;
 
+let previousDate = null;
+let sameDateCount = 0;
 let currentIndex = 0;
 let runningProcesses = 0;
 
 function startNextProcess() {
   if (currentIndex >= posts.length) return; // Stop when all records are processed
 
-  const { link } = posts[currentIndex];
+  const { title , link , date } = posts[currentIndex];
+  if (previousDate && previousDate === date) {
+    // Skip if the date is the same as the previous record
+    sameDateCount++;
+  }else{
+    previousDate = date;
+    sameDateCount = 0;
+  }
   const processIndex = currentIndex + 1;
   
   console.log(`Starting process for record ${processIndex}...`);
   
-  const child = spawn('node', ['singlePageCrawlMawkun.js', link, processIndex.toString()], {
+  const child = spawn('node', ['singlePageCrawlMawkun.js', link, sameDateCount.toString() , date , title], {
     stdio: 'inherit', // Inherits stdout and stderr for live logs
   });
 
