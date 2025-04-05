@@ -1,0 +1,22 @@
+[
+    {
+      "crisis_type": "Fire",
+      "location": "သာစည်ကျရွာ, မုံရွာမြို့နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီတပ်",
+      "House/Property_damage": "နေအိမ်များ မီးရှို့ဖျက်ဆီးခံရ",
+      "affected_population": "NA",
+      "fatality_count": "NA"
+    },
+    {
+      "crisis_type": "Fire",
+      "location": "ကံပြားရွာ, မုံရွာမြို့နယ်, စစ်ကိုင်းတိုင်း",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီတပ်",
+      "House/Property_damage": "နေအိမ်များ မီးရှို့ဖျက်ဆီးခံရ",
+      "affected_population": "NA",
+      "fatality_count": "NA"
+    }
+  ]

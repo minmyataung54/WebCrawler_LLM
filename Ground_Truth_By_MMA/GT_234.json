@@ -1,0 +1,42 @@
+[
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "နမ့်ဆန်မြို့, ရှမ်းပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ, TNLA",
+      "House/Property_damage": "အဆောက်အဦများ ပျက်စီး",
+      "affected_population": "NA",
+      "fatality_count": 1
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "မြောက်ဦးမြို့, ရခိုင်ပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ, AA",
+      "House/Property_damage": "NA",
+      "affected_population": "လူခြောက်ဦးသေပြီး ၁၀ ဦး ဒဏ်ရာရ",
+      "fatality_count": 6
+    },
+    {
+      "crisis_type": "AirStrike/Bombing, Fire",
+      "location": "ကွတ်ခိုင်မြို့, ရှမ်းပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ",
+      "House/Property_damage": "ကွတ်ခိုင်ဈေး မီးလောင်ပျက်စီး",
+      "affected_population": "လူခြောက်ဦးသေပြီး ၁၀ ဦး ဒဏ်ရာရ",
+      "fatality_count": 6
+    },
+      {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "လောက်ကိုင်မြို့, ရှမ်းပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ, MNDAA",
+      "House/Property_damage": "NA",
+      "affected_population": "NA",
+      "fatality_count": "NA"
+    }
+  ]

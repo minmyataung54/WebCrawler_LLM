@@ -1,0 +1,22 @@
+[
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "ကော့ကရိတ်မြို့နယ်တောင်ပိုင်း, ဒေါနတောင်တန်း, ထီးမူးထရွာ, ကော့ကရိတ်မြို့, သင်္ကန်းညီနောင်မြို့သစ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီတပ်, ကေအဲန်ယူ-တပ်မဟာ ၆, ကော်ဘရာစစ်ကြောင်း, ကျားသစ်နက်စစ်ကြောင်း",
+      "House/Property_damage": "NA",
+      "affected_population": "NA",
+      "fatality_count": 1
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "ကော့ကရိတ်တောင်ပိုင်း, သုံးဆယ့်သုံးဆူကျေးရွာ, ကော့ကရိတ်မြို့",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီတပ်",
+      "House/Property_damage": "နေအိမ်များပျက်စီး",
+      "affected_population": "NA",
+      "fatality_count": "NA"
+    }
+  ]

@@ -1,0 +1,32 @@
+[
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "တောင်ကုတ်မြို့ဝန်းကျင်, မီးချောင်းထိုးကျေးရွာ, မိုးတောင် တောင်တန်း, ရခိုင်ပြည်နယ်",
+      "Date/Time": "ဒီနေ့ နေ့လည်ပိုင်း",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ",
+      "House/Property_damage": "အိမ်သုံးလုံး ပျက်စီး",
+      "affected_population": "1",
+      "fatality_count": 1
+    },
+      {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "မိုးတောင်တောင်တန်း, မိုးတောင်ပညာဒါန ဘုန်းကြီးကျောင်း, ရခိုင်ပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ",
+      "House/Property_damage": "အပျက်အစီးအချို့ရှိ",
+      "affected_population": "1",
+      "fatality_count": "NA"
+    },
+    {
+      "crisis_type": "Civil Disorder",
+      "location": "တောင်ကုတ်မြို့, ရခိုင်ပြည်နယ်",
+      "Date/Time": "ဒီလ ၂၀ရက်",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ",
+      "House/Property_damage": "NA",
+      "affected_population": "NA",
+      "fatality_count": "NA"
+    }
+  ]

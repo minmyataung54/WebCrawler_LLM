@@ -1,0 +1,32 @@
+[
+    {
+      "crisis_type": "Armed conflicts",
+      "location": "ရေးမြို့နယ်, စံပြကျေးရွာ, ဒုံဖီအုပ်စု, မွန်ပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "1 hour",
+      "Involved_parties": "DKBA, အာဏာသိမ်းစစ်တပ်, KNLA တပ်ရင်း ၂၇, တပ်ခွဲ ၃",
+      "House/Property_damage": "နွားနှစ်ကောင် သေဆုံး",
+      "affected_population": "1",
+      "fatality_count": 1
+    },
+    {
+      "crisis_type": "Armed conflicts",
+      "location": "ရေးမြို့နယ်, နှင်းစုံအုပ်စု, နှင်းစုံကျေးရွာ",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "DKBA, အာဏာသိမ်းစစ်တပ်, ကေအဲန်ယူ",
+      "House/Property_damage": "NA",
+      "affected_population": "NA",
+      "fatality_count": "NA"
+    },
+      {
+      "crisis_type": "Armed conflicts",
+      "location": "သံဖြူဇရပ်မြို့နယ်, မွန်ပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "ကေအဲန်ယူ – တောင်ညိုစစ်ကြောင်း, စစ်ကောင်စီ",
+      "House/Property_damage": "NA",
+      "affected_population": "ငါးဦးသေဆုံးပြီး နှစ်ဦးပြင်းထန် ဒဏ်ရာရ",
+      "fatality_count": 5
+    }
+  ]

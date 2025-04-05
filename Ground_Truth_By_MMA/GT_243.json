@@ -1,0 +1,22 @@
+[
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "မြောက်ဦးမြို့, ရခိုင်ပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ, AA",
+      "House/Property_damage": "နဝရတ်ဟိုတယ်အနီး ပျက်စီး",
+      "affected_population": "ကလေးငယ်တစ်ဦးအပါအဝင် ဒေသခံခြောက်ဦးသေဆုံး",
+      "fatality_count": 6
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "မြောက်ဦးမြို့နယ်, အုတ်ဖိုကန်ကျေးရွာ, ရခိုင်ပြည်နယ်",
+      "Date/Time": "NA",
+      "duration": "NA",
+      "Involved_parties": "စစ်ကောင်စီ",
+      "House/Property_damage": "NA",
+      "affected_population": "အမျိုးသမီးငယ််တစ်ဦးပြင်းထန်ဒဏ်ရာရရှိ",
+      "fatality_count": "NA"
+    }
+  ]
