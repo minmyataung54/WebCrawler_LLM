@@ -3,7 +3,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 
 const url = "https://mawkun.com/category/%e1%80%9e%e1%80%90%e1%80%84%e1%80%ba%e1%80%b8/";
-const totalPage = 520;
+const totalPage = 500;
 const filePath = "Mawkun.json";
 
 // Define date filter (e.g., only scrape articles from 2024)

@@ -1,5 +1,5 @@
-import fs from 'fs';
-import { spawn } from 'child_process';
+const fs = require('fs');
+const { spawn } = require('child_process');
 
 const MAX_CONCURRENCY = 10; // Limit the number of parallel processes
 const data = fs.readFileSync('Mawkun.json', 'utf-8');
