@@ -1,0 +1,42 @@
+[
+    {
+      "crisis type": "Civil Disorder",
+      "location": "တောင်ကုတ်မြို့နယ်၊ ရခိုင်ပြည်နယ်၊ မြန်မာ",
+      "Date/Time": "ဩဂုတ် ၂၇, ၂၀၂၄",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အရပ်သားများ",
+      "House/Property damage": "NA",
+      "affected population": 3,
+      "fatality count": 0
+    },
+    {
+      "crisis type": "Armed conflicts",
+      "location": "တောင်ကုတ်မြို့၊ ချောင်းကောက်ရပ်ကွက်၊ ရခိုင်ပြည်နယ်၊ မြန်မာ",
+      "Date/Time": "ဇွန် ၁၅, ၂၀၂၄",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အာရက္ခတပ်တော် (AA)",
+      "House/Property damage": "NA",
+      "affected population": "NA",
+      "fatality count": 0
+    },
+    {
+      "crisis type": "AirStrike/Bombing",
+      "location": "တောင်ကုတ်မြို့အနီးတဝိုက် ကျေးလက်ဒေသများ၊ ရခိုင်ပြည်နယ်၊ မြန်မာ",
+      "Date/Time": "ဩဂုတ် ၂၂, ၂၀၂၄",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ (လေတပ်) နှင့် အရပ်သားများ",
+      "House/Property damage": "NA",
+      "affected population": 1,
+      "fatality count": 1
+    },
+    {
+      "crisis type": "AirStrike/Bombing",
+      "location": "မိုးတောင်ပညာဒါနဘုန်းတော်ကြီးကျောင်း၊ တောင်ကုတ်မြို့အနီး၊ ရခိုင်ပြည်နယ်၊ မြန်မာ",
+      "Date/Time": "ဩဂုတ် ၁၆, ၂၀၂၄",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ (လေတပ်) နှင့် အရပ်သားများ (သံဃာတော်)",
+      "House/Property damage": "NA",
+      "affected population": 1,
+      "fatality count": 0
+    }
+  ]

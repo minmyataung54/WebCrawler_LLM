@@ -1,0 +1,22 @@
+[
+    {
+      "crisis type": "AirStrike/Bombing",
+      "location": "နမ့်ခမ်းမြို့၊ ရှမ်းပြည်နယ်မြောက်ပိုင်း၊(တရုတ်နယ်စပ်အနီး)",
+      "Date/Time": "စက်တင်ဘာ ၆, ၂၀၂၄ (မနက်အစောပိုင်း ၁ နာရီခွဲခန့်)",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အရပ်သားများ",
+      "House/Property damage": "NA",
+      "affected population": 22,
+      "fatality count": 11
+    },
+    {
+      "crisis type": "AirStrike/Bombing",
+      "location": "ဖယ်ခုံမြို့၊ ရှမ်းပြည်နယ်တောင်ပိုင်း",
+      "Date/Time": "စက်တင်ဘာ ၅, ၂၀၂၄ (ညပိုင်း)",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် စစ်ရှောင်များ",
+      "House/Property damage": "NA",
+      "affected population": 8,
+      "fatality count": 8
+    }
+  ]

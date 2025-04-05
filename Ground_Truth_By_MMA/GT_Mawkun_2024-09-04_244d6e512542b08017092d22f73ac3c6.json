@@ -1,0 +1,32 @@
+[
+    {
+      "crisis type": "Armed conflicts",
+      "location": "ကျောင်းပြိန်းရွာ၊ တုံစင့်ကျေးရွာအုပ်စု၊ သီပေါမြို့နယ်၊ ရှမ်းပြည်နယ်မြောက်ပိုင်း",
+      "Date/Time": "စက်တင်ဘာ ၅, ၂၀၂၄ (နံနက်အစောပိုင်း)",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အရပ်သားများ",
+      "House/Property damage": "NA",
+      "affected population": 2,
+      "fatality count": 1
+    },
+    {
+      "crisis type": "Armed conflicts",
+      "location": "ကုံးစုံ(လီဆူ) ရွာ၊ သီပေါမြို့နယ်၊ ရှမ်းပြည်နယ်မြောက်ပိုင်း၊ မြန်မာ",
+      "Date/Time": "စက်တင်ဘာ ၂, ၂၀၂၄",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အရပ်သားများ",
+      "House/Property damage": "NA",
+      "affected population": 1,
+      "fatality count": 0
+    },
+    {
+      "crisis type": "Armed conflicts",
+      "location": "သီပေါမြို့နယ်",
+      "Date/Time": "NA",
+      "duration": "တစ်လ",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အရပ်သားများ",
+      "House/Property damage": "NA",
+      "affected population": 82,
+      "fatality count": 22
+    }
+  ]

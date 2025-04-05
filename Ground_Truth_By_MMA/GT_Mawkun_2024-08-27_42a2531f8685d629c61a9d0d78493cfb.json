@@ -1,0 +1,22 @@
+[
+    {
+      "crisis type": "Armed conflicts",
+      "location": "သံတွဲမြို့နယ်၊ ရခိုင်ပြည်နယ်",
+      "Date/Time": "ဩဂုတ် ၂၈, ၂၀၂၄ (နံနက်ပိုင်း)",
+      "duration": "NA",
+      "Involved parties": "အာရက္ခတပ်တော် (AA) နှင့် စစ်ကောင်စီ",
+      "House/Property damage": "မောင်ရွှေလေး ရေတပ်စခန်း",
+      "affected population": "NA",
+      "fatality count": "NA"
+    },
+    {
+      "crisis type": "Armed conflicts",
+      "location": "သံတွဲမြို့နယ်၊ ရခိုင်ပြည်နယ်၊ မောင်ရွှေလေး ရေတပ်စခန်း",
+      "Date/Time": "ဩဂုတ် ၂၅, ၂၀၂၄",
+      "duration": "NA",
+      "Involved parties": "အာရက္ခတပ်တော် (AA) နှင့် စစ်ကောင်စီ",
+      "House/Property damage": "မောင်ရွှေလေး ရေတပ်စခန်း",
+      "affected population": 5,
+      "fatality count": 5
+    }
+  ]

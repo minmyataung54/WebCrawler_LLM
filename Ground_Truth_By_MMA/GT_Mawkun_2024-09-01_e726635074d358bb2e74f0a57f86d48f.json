@@ -1,0 +1,32 @@
+[
+    {
+      "crisis type": "Civil Disorder",
+      "location": "စစ်တွေမြို့၊ ရခိုင်ပြည်နယ်၊ မြန်မာ",
+      "Date/Time": "ဩဂုတ် ၃၁, ၂၀၂၄ (နံနက် ၃ နာရီ ဝန်းကျင်)",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီတပ်သားများ နှင့် တံငါသည်များ",
+      "House/Property damage": "NA",
+      "affected population": 6,
+      "fatality count": 0
+    },
+    {
+      "crisis type": "Armed conflicts",
+      "location": "စစ်တွေမြစ် (ဒေသခံအခေါ်)၊ စစ်တွေမြို့နယ်၊ ရခိုင်ပြည်နယ်၊ မြန်မာ",
+      "Date/Time": "ဩဂုတ် ၂၉, ၂၀၂၄ (ည ၁၁ နာရီ အချိန်ခန့်)",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီရေတပ် နှင့် တံငါသည်များ",
+      "House/Property damage": "NA",
+      "affected population": 2,
+      "fatality count": 0
+    },
+    {
+      "crisis type": "Armed conflicts",
+      "location": "မင်းလှကျေးရွာအနီး၊ စစ်တွေမြို့နယ်၊ ရခိုင်ပြည်နယ်၊ မြန်မာ",
+      "Date/Time": "ဩဂုတ် ၂၉, ၂၀၂၄ (ညနေ ၃ နာရီ လောက်)",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အာရက္ခတပ်တော် (AA)",
+      "House/Property damage": "NA",
+      "affected population": "NA",
+      "fatality count": "NA"
+    }
+  ]

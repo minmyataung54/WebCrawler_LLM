@@ -1,0 +1,32 @@
+[
+    {
+      "crisis type": "AirStrike/Bombing",
+      "location": "စစ်တွေမြို့နယ် (ဝါဘို, ညိုရင်ပြင်, မင်းလှကျေးရွာ) နှင့် ပုဏ္ဏားကျွန်းမြို့နယ် (ရဲရော်ပြင်, ခမောင်းတော, အောင်ဇေယျကျေးရွာ), ရခိုင်ပြည်နယ်",
+      "Date/Time": "စက်တင်ဘာ ၂, ၂၀၂၄ (နေ့လည် ၂:၀၀ နာရီကျော်)",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အရပ်သားများ",
+      "House/Property damage": "NA",
+      "affected population": "NA",
+      "fatality count": "NA"
+    },
+    {
+      "crisis type": "Armed conflicts",
+      "location": "မင်းလှကျေးရွာအနီး၊ စစ်တွေမြို့နယ်",
+      "Date/Time": "ဩဂုတ် ၂၉, ၂၀၂၄",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီတပ် နှင့် အာရက္ခတပ်တော် (AA)",
+      "House/Property damage": "NA",
+      "affected population": "NA",
+      "fatality count": "NA"
+    },
+    {
+      "crisis type": "AirStrike/Bombing",
+      "location": "မြောက်ဦးမြို့",
+      "Date/Time": "ဩဂုတ် ၈, ၂၀၂၄",
+      "duration": "NA",
+      "Involved parties": "စစ်ကောင်စီ နှင့် အရပ်သားများ",
+      "House/Property damage": "NA",
+      "affected population": 13,
+      "fatality count": 6
+    }
+  ]
