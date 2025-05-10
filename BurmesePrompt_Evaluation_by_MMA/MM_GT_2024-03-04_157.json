@@ -1,0 +1,83 @@
+[
+    {
+        "crisis_type": [
+            "Fire"
+        ],
+        "location": "ခိုးသန်းရွာ, မုံရွာမြို့မြောက်ဘက်, စစ်ကိုင်းတိုင်း (အနောက်မြောက်တိုင်းစစ်ဌာနချုပ်အနီး)",
+        "date_time": "2024/03/05",
+        "duration_hours": "NA",
+        "involved_parties": [
+            "စစ်ကောင်စီတပ်များ"
+        ],
+        "property_damage": [
+            {
+                "location": "ခိုးသန်းရွာ",
+                "description": "ရှေးဟောင်းအဆောက်အဦများနှင့် ဘုန်းကြီးကျောင်းများစွာ၊ ကျောင်းကန်ဇရပ်"
+            },
+            {
+                "location": "ခိုးသန်းရွာ",
+                "description": "ယခင်မီးလောင်မှုမှ ကျန်ရှိသောအိမ်များ"
+            }
+        ],
+        "affected_population": [
+            {
+                "location": "ခိုးသန်းရွာနှင့် အနီးနားရှိကျေးရွာများ",
+                "count": "ဒေသခံအများအပြား"
+            }
+        ],
+        "fatalities": []
+    },
+    {
+        "crisis_type": [
+            "Armed Conflict"
+        ],
+        "location": "ခိုးသန်းရွာ, မုံရွာမြို့, စစ်ကိုင်းတိုင်း",
+        "date_time": "2024/03/04",
+        "duration_hours": "NA",
+        "involved_parties": [
+            "စစ်ကောင်စီတပ်များ"
+        ],
+        "property_damage": [],
+        "affected_population": [],
+        "fatalities": []
+    },
+    {
+        "crisis_type": [
+            "Armed Conflict",
+            "Fire"
+        ],
+        "location": "ခိုးသန်းရွာ, စစ်ကိုင်းတိုင်း",
+        "date_time": "2024/03/01",
+        "duration_hours": "NA",
+        "involved_parties": [
+            "စစ်ကောင်စီတပ်များ"
+        ],
+        "property_damage": [
+            {
+                "location": "ခိုးသန်းရွာ",
+                "description": "အိမ်ခြေ ၁၀၀ မှ ၁၅၀ ခန့်"
+            }
+        ],
+        "affected_population": [],
+        "fatalities": []
+    },
+    {
+        "crisis_type": [
+            "Armed Conflict"
+        ],
+        "location": "မုံရွာအခြေစိုက် အနောက်မြောက်တိုင်းစစ်ဌာနချုပ်၏ အနီးတစ်ဝိုက်ကျေးရွာများ",
+        "date_time": "2023/10/24 နောက်ပိုင်း",
+        "duration_hours": "NA",
+        "involved_parties": [
+            "စစ်ကောင်စီတပ်များ"
+        ],
+        "property_damage": [],
+        "affected_population": [
+            {
+                "location": "မုံရွာအခြေစိုက် အနောက်မြောက်တိုင်းစစ်ဌာနချုပ်၏ အနီးတစ်ဝိုက်ကျေးရွာများ",
+                "count": "ဒေသခံအများအပြား"
+            }
+        ],
+        "fatalities": []
+    }
+]

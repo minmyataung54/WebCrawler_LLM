@@ -1,0 +1,38 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "2024/01/03",
+      "location": "လိုင်ဇာအနီး၊ ကချင်ပြည်နယ်",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ကချင်အမျိုးသားလွတ်လပ်ရေးတပ်မတော် (KIA)",
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "လိုင်ဇာအနီး",
+          "description": "စစ်ကောင်စီတပ်၏ ရဟတ်ယာဉ်တစ်စီး ပစ်ချခံရ"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "2021/May",
+      "location": "ကုန်းလောရွာအနီး၊ မိုးမောက်မြို့နယ်၊ ကချင်ပြည်နယ်",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "KIA",
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "ကုန်းလောရွာအနီး",
+          "description": "စစ်ကောင်စီတပ်၏ MI-35 ရဟတ်ယာဉ်တစ်စီး ပစ်ချခံရ"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

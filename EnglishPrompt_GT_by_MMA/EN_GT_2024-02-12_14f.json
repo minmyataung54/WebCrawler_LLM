@@ -1,0 +1,82 @@
+[
+    {
+      "crisis_type": [
+        "civil unrest",
+        "Fire"
+      ],
+      "location": "Kwan Chan village, Butalin Township, Sagaing Region",
+      "date_time": "2024/02/12",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Kwan Chan village",
+          "description": "Around thirty houses burned down and destroyed"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": 1,
+          "description": "One local injured"
+        },
+        {
+          "count": 2,
+          "description": "Two villagers arrested (now released)"
+        }
+      ],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Fire",
+      "location": "Near Htan Taw village, Butalin Township, Sagaing Region",
+      "date_time": "2024/02/13",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Htan Taw village",
+          "description": "One house set on fire"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": 1,
+          "description": "One villager who fled was shot at and sustained multiple injuries"
+        },
+        {
+          "count": 1,
+          "description": "One villager had a thumb amputated"
+        }
+      ],
+      "fatalities": []
+    },
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Civil unrest"
+      ],
+      "location": "Kwan Chan village, Butalin Township, Sagaing Region",
+      "date_time": "2024/01/22",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": "Over thirty",
+          "description": "Over thirty locals arrested"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "One defense force member shot dead"
+        }
+      ]
+    }
+  ]

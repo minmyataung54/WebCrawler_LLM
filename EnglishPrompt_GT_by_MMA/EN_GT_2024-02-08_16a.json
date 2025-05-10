@@ -1,0 +1,22 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Kan village, Minkin Township, Sagaing Region",
+      "date_time": "2024/02/07",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Local revolutionary alliance",
+        "Student Revolution Force SRF",
+        "Military Council troops",
+        "Pyu Saw Htee group"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": 10,
+          "description": "10 comrades injured"
+        }
+      ],
+      "fatalities": []
+    }
+  ]

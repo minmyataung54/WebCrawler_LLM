@@ -1,0 +1,73 @@
+[
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "date_time": "NA",
+      "location": "ကနန်ရွာ၊ ခမ်းပတ်မြို့အနီး၊ စစ်ကိုင်းတိုင်း",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီလေတပ်",
+        "အမျိုးသားညီညွတ်ရေးအစိုးရ (NUG)"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "ကနန်ရွာ",
+          "count": 19,
+          "description": "ဒဏ်ရာရရှိသူ"
+        }
+      ],
+      "fatalities": [
+        {
+          "location": "ကနန်ရွာ",
+          "count": 17,
+          "description": "သေဆုံးသူ (အသက် ငါးနှစ်ကနေ ၁၇ နှစ်အတွင်း ကလေးငယ် ကိုးဦးအပါအဝင်)"
+        }
+      ]
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "date_time": "2024/01/04",
+      "location": "စိန်နန်းရွာ၊ တန့်ဆည်မြို့နယ်",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီလေတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "စိန်နန်းရွာ",
+          "description": "ဒေသခံနေအိမ်တချို့ ပျက်စီး"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": [
+        {
+          "location": "စိန်နန်းရွာ",
+          "count": 5,
+          "description": "သေဆုံးသူ (ကလေးငယ်တစ်ဦးအပါအဝင် အမျိုးသမီးလေးဦး)"
+        }
+      ]
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "date_time": "NA",
+      "location": "မြန်မာနိုင်ငံတစ်ဝန်း",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်တပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "မြန်မာနိုင်ငံတစ်ဝန်း",
+          "description": "အဆောက်အဦအများအပြား ပျက်စီး"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": [
+        {
+          "location": "မြန်မာနိုင်ငံတစ်ဝန်း",
+          "count": "ကိုးရာနီးပါး",
+          "description": "အရပ်သားသေဆုံး"
+        }
+      ]
+    }
+  ]

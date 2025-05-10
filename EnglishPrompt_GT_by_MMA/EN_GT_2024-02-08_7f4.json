@@ -1,0 +1,49 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing",
+        "Fire"
+      ],
+      "location": "Kanbalu and Kyunhla Townships, Sagaing Region",
+      "date_time": "2024/02/01",
+      "duration_hours": "Over 1 week",
+      "involved_parties": [
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Pay Lel village",
+          "description": "Locals' homes, rice barns, and refugee shelters burned and destroyed"
+        },
+        {
+          "location": "Thapye Tha Lay village",
+          "description": "Locals' homes, rice barns, and refugee shelters burned and destroyed"
+        },
+        {
+          "location": "Mea Thei village",
+          "description": "Locals' homes, rice barns, and refugee shelters burned and destroyed"
+        },
+        {
+          "location": "Zee Phyu Kone village",
+          "description": "Locals' homes, rice barns, and refugee shelters burned and destroyed"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "Eight",
+          "description": "Eight locals injured, including a monk from Thintaw Monastery, Zaw Chaung Monastery, and Kan Gyi village"
+        },
+        {
+          "count": "Around fifty thousand",
+          "description": "Displaced by conflict"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "One local killed"
+        }
+      ]
+    }
+  ]

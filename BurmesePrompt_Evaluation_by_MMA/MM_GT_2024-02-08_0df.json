@@ -1,0 +1,45 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing"
+      ],
+      "location": "ပဲခူးတိုင်း၊ ထန်းတပင်မြို့နယ်၊ ဇရပ်ကြီးမြို့",
+      "date_time": "2024/02/07",
+      "duration_hours": "Several days",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်",
+        "KNLA ပူးပေါင်းတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "မြို့ပေါ်",
+          "description": "နေအိမ်အများအပြားပျက်စီး"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "ခုနစ်ဦးခန့်",
+          "description": "ဒဏ်ရာရရှိ"
+        },
+        {
+          "count": "ထောင်နဲ့ချီ",
+          "description": "ထွက်ပြေးတိမ်းရှောင်နေရ"
+        },
+        {
+          "count": "ငါးထောင်ခန့်",
+          "description": "တောင်ငူနဲ့ အုတ်တွင်းမြို့တွေကို ထွက်ပြေးခိုလှုံနေရ"
+        },
+        {
+          "count": "NA",
+          "description": "မြို့တွင်း ပိတ်မိနေတဲ့ ပြည်သူတွေ ကျန်ရှိ"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": "ငါးဦးထက်မနည်း",
+          "description": "အရပ်သားသေဆုံး"
+        }
+      ]
+    }
+  ]

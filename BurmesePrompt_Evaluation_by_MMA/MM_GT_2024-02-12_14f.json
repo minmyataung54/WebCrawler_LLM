@@ -1,0 +1,83 @@
+[
+    {
+      "crisis_type": [
+        "civil unrest",
+        "Fire"
+      ],
+      "location": "စစ်ကိုင်းတိုင်း၊ ဘုတလင်မြို့နယ်၊ ကွမ်းခြံရွာ",
+      "date_time": "2024/02/12",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "ကွမ်းခြံရွာ",
+          "description": "အိမ်ခြေသုံးဆယ်ဝန်းကျင် မီးလောင်ပျက်စီး"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": 1,
+          "description": "ဒေသခံတစ်ယောက်ဒဏ်ရာရ"
+        },
+        {
+          "count": 2,
+          "description": "ရွာခံနှစ်ယောက် ဖမ်းဆီးခံရ (ယခု ပြန်လွတ်လာပြီ)"
+        }
+      ],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Fire",
+      "location": "စစ်ကိုင်းတိုင်း၊ ဘုတလင်မြို့နယ်၊ ထန်းတောရွာအနီး",
+      "date_time": "2024/02/13",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "ထန်းတောရွာ",
+          "description": "အိမ်တစ်လုံး မီးရှို့ခံရ"
+        }
+      ],
+      "affected_population": [
+
+        {
+            "count": 1,
+            "description": "ထွက်ပြေးခဲ့တဲ့ ရွာသားတစ်ဦး သေနတ်နဲ့လိုက်လံပစ်ခတ်ခံရပြီး ထိခိုက်ဒဏ်ရာအများအပြားရ"
+        },
+        {
+            "count": 1,
+            "description": "ရွာသားတစ်ယောက် လက်သန်းတစ်ချောင်းဖြတ်လိုက်ရ"
+        }
+      ],
+      "fatalities": []
+    },
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Civil unrest"
+      ],
+      "location": "စစ်ကိုင်းတိုင်း၊ ဘုတလင်မြို့နယ်၊ ကွမ်းခြံရွာ",
+      "date_time": "2024/01/22",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": "သုံးဆယ်ကျော်",
+          "description": "ဒေသခံ သုံးဆယ်ကျော် ဖမ်းဆီးခံရ"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "ကာကွယ်ရေးတပ်ဖွဲ့ဝင်တစ်ဦး ပစ်သတ်ခံရ"
+        }
+      ]
+    }
+  ]

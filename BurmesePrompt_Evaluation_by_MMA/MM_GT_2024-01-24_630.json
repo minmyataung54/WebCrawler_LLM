@@ -1,0 +1,54 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Fire"
+      ],
+      "location": "စစ်ကိုင်းတိုင်း၊ စစ်ကိုင်း-မုံရွာ ကားလမ်းအနီး၊ လယ်ကြီးနဲ့ ရွာမကျေးရွာ",
+      "date_time": "2024/01/24",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်",
+        "ဒေသခံကာကွယ်ရေးတပ်ဖွဲ့ဝင်"
+      ],
+      "property_damage": [
+        {
+          "location": "ရွာမကျေးရွာ",
+          "description": "လက်နက်ကြီး၊ လက်နက်ငယ်ပစ်ခတ်စီးနင်းခံရ"
+        },
+        {
+          "location": "လယ်ကြီးရွာ",
+          "description": "မီးရှို့ခံရ"
+        },
+        {
+          "location": "ရွာမရွာ",
+          "description": "မီးရှို့ခံရ"
+        },
+        {
+            "location": "ရွာမရွာ",
+            "description" : "အိမ်ခြေနှစ်ဆယ်လောက် မီးထဲပါသွား"
+        }
+      ],
+      "affected_population": [
+        "အများအပြား"
+      ],
+      "fatalities": [
+        4
+      ]
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ဘုတလင်မြို့နယ်၊ ကွမ်းခြံရွာ",
+      "date_time": "2024/01/22",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်",
+        "ကာကွယ်ရေးတပ်ဖွဲ့ဝင်"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": [
+        1
+      ]
+    }
+  ]

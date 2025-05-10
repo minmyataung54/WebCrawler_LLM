@@ -1,0 +1,28 @@
+[
+    {
+      "crisis_type": "Fire",
+      "location": "မကွေးတိုင်း၊ ပေါက်မြို့နယ်၊ အုံးတော(တောင်စု)ရွာ",
+      "date_time": "2024/02/08",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "အုံးတော(တောင်စု)ရွာ",
+          "description": "တစ်ရွာလုံးနီးပါး မီးလောင်ပျက်စီး"
+        },
+        {
+            "location": "အုံးတော(တောင်စု)ရွာ",
+            "description": "အိမ်ခြေကိုးဆယ်နီးပါး မီးလောင်ပျက်စီး"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "၅၀၀ ကျော်",
+          "description": "ရွာခံများ"
+        }
+      ],
+      "fatalities": []
+    }
+  ]

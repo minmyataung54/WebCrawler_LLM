@@ -1,0 +1,40 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Sin Chaung Pyu village-Pakokku road, Yesagyo Township, Magway Region",
+      "date_time": "2024/02/09",
+      "duration_hours": "0.5hr",
+      "involved_parties": [
+        "Junta military",
+        "Pakokku Township People's Defense Force 2",
+        "Yesagyo Township PDF",
+        "Southern Yesagyo PDF",
+        "Pakokku Township PDF Battalion (2)"
+      ],
+      "property_damage": [
+        {
+          "location": "Motorbike",
+          "description": "Left behind"
+        },
+        {
+          "location": "G3 rifle",
+          "description": "Confiscated"
+        },
+        {
+          "location": "Carbine rifle",
+          "description": "Confiscated"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "One soldier on the motorbike died on the spot"
+        },
+        {
+          "count": 1,
+          "description": "One Pyu Saw Htee member on the motorbike died on the spot"
+        }
+      ]
+    }
+  ]

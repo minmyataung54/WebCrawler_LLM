@@ -1,0 +1,58 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Border of Yinmarbin Township and Salingyi Township, Sagaing Region",
+      "date_time": "2024/01/21",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops",
+        "Local Defense Force",
+        "Spring Guerrilla Platoon",
+        "Yinmarbin District Battalion 21",
+        "Spring Guerrilla Platoon (Company - 3)",
+        "KLG PDF Kyauk Lone Gyi group",
+        "ULF alliance",
+        "Local LPDF"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "Unspecified",
+          "count": 22,
+          "description": "Affected population"
+        }
+      ],
+      "fatalities": [
+        {
+          "location": "Unspecified",
+          "count": 17,
+          "description": "Fatalities"
+        }
+      ]
+    },
+    {
+      "crisis_type": "Armed Conflict, civil unrest",
+      "location": "Kwan Chan village, Butalin Township",
+      "date_time": "2024/01/20",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops",
+        "Defense Force members"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "Kwan Chan village",
+          "count": "Over 30",
+          "description": "Affected population"
+        }
+      ],
+      "fatalities": [
+        {
+          "location": "Kwan Chan village",
+          "count": 1,
+          "description": "Fatality"
+        }
+      ]
+    }
+  ]

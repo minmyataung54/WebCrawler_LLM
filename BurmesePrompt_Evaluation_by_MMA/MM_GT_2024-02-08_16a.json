@@ -1,0 +1,22 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "စစ်ကိုင်းတိုင်း၊ မင်းကင်းမြို့နယ်၊ ကံရွာ",
+      "date_time": "2024/02/07",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ဒေသခံတော်လှန်ရေးတပ်ပေါင်းစု",
+        "ကျောင်းသားတော်လှန်ရေးတပ်ဖွဲ့ SRF",
+        "စစ်ကောင်စီတပ်",
+        "ပျူစောထီးအဖွဲ့"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": 10,
+          "description": "ရဲဘော် ၁၀ ဦး ထိခိုက်ဒဏ်ရာရ"
+        }
+      ],
+      "fatalities": []
+    }
+  ]

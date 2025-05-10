@@ -1,0 +1,58 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing",
+        "Fire"
+      ],
+      "location": "Zayat Gyi town, Htantabin Township, Bago Region",
+      "date_time": "2024/02/07",
+      "duration_hours": "3 days",
+      "involved_parties": [
+        "KNLA joint forces",
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Zayat Gyi town",
+          "description": "Many houses burned down and destroyed"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "Many",
+          "description": "Trapped amidst the fighting"
+        },
+        {
+          "count": 10,
+          "description": "Injured and sent to Taungoo Hospital"
+        },
+        {
+          "count": "Thousands",
+          "description": "Fleeing to Taungoo and OkTwin towns for refuge"
+        },
+        {
+          "count": "Many",
+          "description": "Trapped in residential areas and villages near the town"
+        },
+        {
+          "count": "Many",
+          "description": "Awaiting rescue near villages such as Nat Yar and Na Than Oo"
+        },
+        {
+          "count": "Many",
+          "description": "Trapped in villages such as Kin Mon Chon, Min Kyaing, and Myo Soe"
+        },
+        {
+          "count": "Many",
+          "description": "Hiding in trenches and ditches in the villages"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": "More than five",
+          "description": "Civilian deaths"
+        }
+      ]
+    }
+  ]

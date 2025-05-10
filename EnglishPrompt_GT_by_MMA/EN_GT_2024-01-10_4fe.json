@@ -1,0 +1,73 @@
+[
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "date_time": "NA",
+      "location": "Kanan village, near Khampat town, Sagaing Region",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council Air Force",
+        "National Unity Government (NUG)"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "Kanan village",
+          "count": 19,
+          "description": "Injured"
+        }
+      ],
+      "fatalities": [
+        {
+          "location": "Kanan village",
+          "count": 17,
+          "description": "Deaths (including nine children aged five to seventeen)"
+        }
+      ]
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "date_time": "2024/01/04",
+      "location": "Sein Nan village, Tantswe Township",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council Air Force"
+      ],
+      "property_damage": [
+        {
+          "location": "Sein Nan village",
+          "description": "Some local homes damaged"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": [
+        {
+          "location": "Sein Nan village",
+          "count": 5,
+          "description": "Deaths (including four women, one child)"
+        }
+      ]
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "date_time": "NA",
+      "location": "Across Myanmar",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military"
+      ],
+      "property_damage": [
+        {
+          "location": "Across Myanmar",
+          "description": "Numerous buildings damaged"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": [
+        {
+          "location": "Across Myanmar",
+          "count": "Nearly nine hundred",
+          "description": "Civilian deaths"
+        }
+      ]
+    }
+  ]

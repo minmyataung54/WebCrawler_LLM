@@ -1,0 +1,30 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Thayet Kan Pyu village, Myaing Township, Magway Region",
+      "date_time": "2024/02/13",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Pyu Saw Htee",
+        "Earthquake Peoples Defense Force"
+      ],
+      "property_damage": [
+        {
+          "location": "Bunker",
+          "description": "Set on fire"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": 5,
+          "description": "Captured alive"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 7,
+          "description": "Deceased"
+        }
+      ]
+    }
+  ]

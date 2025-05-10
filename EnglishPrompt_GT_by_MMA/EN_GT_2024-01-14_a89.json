@@ -1,0 +1,76 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "2024/01/10",
+      "location": "Kyauktaw Township, Rakhine State",
+      "duration_hours": "5 days",
+      "involved_parties": [
+        "Arakan Army (AA)",
+        "Military Council troops"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "Seven villages near Kyauktaw Township",
+          "count": "NA",
+          "description": "Locals displaced by conflict"
+        },
+        {
+          "location": "Paletwa Township",
+          "count": "Over twenty thousand",
+          "description": "Population displaced along the Kaladan River"
+        }
+      ],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "2024/01/13",
+      "location": "Border of Paletwa Township (Chin State) and Kyauktaw Township (Rakhine State)",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Arakan Army (AA)",
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Mee Wa strategic hill",
+          "description": "Military Council's stronghold captured"
+        }
+      ],
+      "affected_population": [
+        {
+          "location": "Paletwa Township",
+          "count": "Over twenty thousand",
+          "description": "Population displaced along the Kaladan River"
+        }
+      ],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "NA",
+      "location": "Paletwa Township",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Arakan Army (AA)",
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Paletwa Town",
+          "description": "AA troops stationed at the township police station and township administration offices"
+        },
+        {
+          "location": "Paletwa Area",
+          "description": "Capture of Military Council's Light Infantry Battalion 289 headquarters, Hnama Da strategic camp, and other camps"
+        },
+        {
+          "location": "During the battle for Paletwa Town",
+          "description": "Seizure of numerous weapons and ammunition, including Military Council's armored vehicles and multiple rocket launchers"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

@@ -1,0 +1,26 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ကေအဲန်ယူတပ်မဟာ ၆ နယ်မြေ၊ မြဝတီမြို့၊ သင်္ဃန်းညီနောင်မြို့သစ်အနီး",
+      "date_time": "2024/01/29",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "အာဏာသိမ်းစစ်တပ်",
+        "တော်လှန်ရေးတပ်ဖွဲ့"
+      ],
+      "property_damage": [
+        {
+          "location": "ရဟတ်ယာဉ်တစ်စီး",
+          "description": "ပစ်ချခံရ"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "NA"
+        }
+      ],
+      "fatalities": [
+        "NA"
+      ]
+    }
+  ]

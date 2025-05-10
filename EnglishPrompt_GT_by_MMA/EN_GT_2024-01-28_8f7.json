@@ -1,0 +1,26 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Karen National Union (KNU) Brigade 6 area, near Myawaddy town, Thingannyinaung new town",
+      "date_time": "2024/01/29",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Junta military",
+        "Revolutionary forces"
+      ],
+      "property_damage": [
+        {
+          "location": "One helicopter",
+          "description": "Shot down"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "NA"
+        }
+      ],
+      "fatalities": [
+        "NA"
+      ]
+    }
+  ]

@@ -1,0 +1,42 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ယင်းမာပင်မြို့နယ်နဲ့ ဆားလင်းကြီးမြို့နယ်အစပ် ၊ စစ်ကိုင်းတိုင်း",
+      "date_time": "2024/01/21",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်",
+        "ဒေသခံကာကွယ်ရေးတပ်ဖွဲ့",
+        "Spring Guerrilla Platoon",
+        "ယင်းမာပင်ခရိုင် တပ်ရင်း ၂၁",
+        "Spring Guerrilla Platoon (တပ်ခွဲ -၃)",
+        "KLG PDF ကျောက်လုံးကြီးအဖွဲ့",
+        "ULFတပ်ပေါင်းစု",
+        "ဒေသခံ LPDF"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        22
+      ],
+      "fatalities": [
+        17
+      ]
+    },
+    {
+      "crisis_type": "Armed Conflict, civil unrest",
+      "location": "ဘုတလင်မြို့နယ် ကွမ်းခြံရွာ",
+      "date_time": "2024/01/20",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်",
+        "ကာကွယ်ရေးတပ်ဖွဲ့ဝင်"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        "30 ကျော်"
+      ],
+      "fatalities": [
+        1
+      ]
+    }
+  ]

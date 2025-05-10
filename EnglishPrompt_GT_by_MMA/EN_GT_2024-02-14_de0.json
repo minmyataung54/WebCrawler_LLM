@@ -1,0 +1,69 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing"
+      ],
+      "location": "Kanbalu and Kyunhla Townships, Sagaing Region",
+      "date_time": "2024/02/14",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": 3,
+          "description": "Three locals from Maw Ton, Pe Pin Chaung, and Way Thaw villages injured"
+        },
+        {
+          "count": "Tens of thousands",
+          "description": "Fled and are in hiding"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "One woman from Maw Ton village died"
+        }
+      ]
+    },
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Fire"
+      ],
+      "location": "Kyunhla area, Kanbalu Township, Sagaing Region",
+      "date_time": "NA",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Around five villages",
+          "description": "Nearly fifty houses burned down and destroyed"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "More than 10",
+          "description": "Injured (during airstrikes)"
+        },
+        {
+          "count": "Tens of thousands",
+          "description": "Fled and are in hiding"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "One local died (during airstrikes)"
+        },
+        {
+          "count": 3,
+          "description": "Three locals killed (during ground offensive)"
+        }
+      ]
+    }
+  ]

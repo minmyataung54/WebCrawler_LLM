@@ -1,0 +1,38 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "2024/01/16",
+      "location": "နမ့်ဖတ်ကာဒေသ၊ ကွတ်ခိုင်မြို့နယ်၊ ရှမ်းပြည်နယ်မြောက်ပိုင်း",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ကချင်လွတ်လပ်ရေးတပ်မတော် (KIA)",
+        "စစ်ကောင်စီ"
+      ],
+      "property_damage": [
+        {
+          "location": "နမ့်ဖတ်ကာဒေသ",
+          "description": "စစ်ကောင်စီ ဂျက်ဖိုက်တာတစ်စီး ပစ်ချခံရ"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "2024/01/03",
+      "location": "လိုင်ဇာအနီး",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ကချင်လွတ်လပ်ရေးတပ်မတော် (KIA)",
+        "စစ်ကောင်စီ"
+      ],
+      "property_damage": [
+        {
+          "location": "လိုင်ဇာအနီး",
+          "description": "စစ်ကောင်စီ ရဟတ်ယာဉ်တစ်စီး ပစ်ချခံရ"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

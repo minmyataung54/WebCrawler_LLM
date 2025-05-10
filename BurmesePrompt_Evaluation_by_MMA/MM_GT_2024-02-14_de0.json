@@ -1,0 +1,69 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing"
+      ],
+      "location": "စစ်ကိုင်းတိုင်း၊ကန့်ဘလူ၊ ကျွန်းလှမြို့နယ်",
+      "date_time": "2024/02/14",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": 3,
+          "description": "မော်တုံ၊ ပေပင်ချောင်နဲ့ ဝေသော်ရွာက ဒေသခံသုံးဦး ထိခိုက်ဒဏ်ရာရ"
+        },
+        {
+          "count": "သောင်းချီ",
+          "description": "ထွက်ပြေးတိမ်းရှောင်နေရ"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "မော်တုံရွာက အမျိုးသမီးတစ်ဦးသေဆုံး"
+        }
+      ]
+    },
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Fire"
+      ],
+      "location": "စစ်ကိုင်းတိုင်း၊ ကန့်ဘလူမြို့နယ်၊ ကျွန်းလှနယ်",
+      "date_time": "NA",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "ကျေးရွာငါးရွာဝန်းကျင်",
+          "description": "အိမ်ခြေငါးဆယ်နီးပါး မီးလောင်ပျက်စီး"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "၁၀ ဦးထက်မနည်း",
+          "description": "ထိခိုက်ဒဏ်ရာရ (လေကြောင်းတိုက်ခိုက်မှုအတွင်း)"
+        },
+        {
+          "count": "သောင်းချီ",
+          "description": "ထွက်ပြေးတိမ်းရှောင်နေရ"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "ဒေသခံတစ်ဦးသေဆုံး (လေကြောင်းတိုက်ခိုက်မှုအတွင်း)"
+        },
+        {
+          "count": 3,
+          "description": "ဒေသခံသုံးဦး သတ်ဖြတ်ခံရ (မြေပြင်စစ်ကြောင်းထိုးမှုအတွင်း)"
+        }
+      ]
+    }
+  ]

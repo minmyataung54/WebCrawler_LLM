@@ -1,0 +1,42 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing",
+        "Fire"
+      ],
+      "location": "ရခိုင်ပြည်နယ်တောင်ပိုင်း၊ ရမ်းဗြဲမြို့",
+      "date_time": "2024/02/13",
+      "duration_hours": "2 days",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်",
+        "ရက္ခိုင့်တပ်တော် (AA)"
+      ],
+      "property_damage": [
+        {
+          "location": "ရမ်းဗြဲမြို့",
+          "description": "နေအိမ်အချို့ မီးလောင်ပျက်စီး"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ရခိုင်ပြည်နယ်၊ ကျောက်တော်မြို့",
+      "date_time": "2024/02/13",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ရက္ခိုင့်တပ်တော် (AA)",
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "စစ်ရေယာဉ်",
+          "description": "စစ်ကောင်စီတပ်ရဲ့ စစ်ရေယာဉ်သုံးစီး တိုက်ခိုက်နှစ်မြုပ်ခံရ"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

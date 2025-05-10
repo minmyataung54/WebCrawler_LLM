@@ -1,0 +1,100 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Myawaddy town entrance, near Thingannyinaung village, Thai-Myanmar border",
+      "date_time": "2024/03/08",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council",
+        "Karen National Liberation Army (KNLA)",
+        "Revolutionary Joint Forces"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Myawaddy-Kawkareik road, near Military Council's Rapid Infantry Battalion 355",
+      "date_time": "From 2024/03/07 morning onwards",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council",
+        "Revolutionary Joint Forces"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "Myawaddy Natural Retreat Hospital",
+      "date_time": "2024/03/08",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council (implied, through airstrike)"
+      ],
+      "property_damage": [
+        {
+          "location": "Myawaddy Natural Retreat Hospital",
+          "description": "Heavy weapon hit the hospital."
+        },
+        {
+          "location": "Hospital's patient ward",
+          "description": "Bomb shrapnel hit."
+        }
+      ],
+      "affected_population": [
+        
+        {
+            "location": "Myawaddy Natural Retreat Hospital",
+            "count": "11 (by bomb)"
+        }
+      ],
+      "fatalities": [
+        {
+          "location": "Myawaddy Natural Retreat Hospital",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Thingannyinaung village group, Myawaddy",
+      "date_time": "From 2024/03/07 onwards",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council (LIB 355, 356, 357)",
+        "Karen National Liberation Army (KNLA)",
+        "Revolutionary Joint Forces"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "Area near LIB 355",
+          "count": "Displaced residents, trapped individuals"
+        }
+      ],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Thingannyinaung village group",
+      "date_time": "2024/03/08",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council",
+        "Cobra Column (implied)",
+        "Karen National Liberation Army (KNLA)",
+        "Revolutionary Joint Forces"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "myawaddy and near monastery",
+          "count": "Over one thousand"
+        }
+      ],
+      "fatalities": []
+    }
+  ]

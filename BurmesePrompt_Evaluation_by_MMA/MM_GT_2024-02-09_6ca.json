@@ -1,0 +1,32 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "မကွေးတိုင်း၊ရေစကြိုမြို့နယ် ဆင်ချောင်းပျူရွာ-ပခုက္ကူလမ်း",
+      "date_time": "2024/02/09",
+      "duration_hours": "0.5hr",
+      "involved_parties": [
+        "အာဏာသိမ်းစစ်တပ်",
+        "ပခုက္ကူမြို့နယ် ပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ ၂",
+        "ရေစကြိုမြို့နယ် ပ.က.ဖ",
+        "Southern Yesagyo PDF",
+        "ပခုက္ကူမြို့နယ် ပ.က.ဖ တပ်ခွဲ(၂)"
+      ],
+      "property_damage": [
+        {
+          "location": "ဆိုင်ကယ်",
+          "description": "ထားသွား"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": [
+        {
+          "count": 1,
+          "description": "ဆိုင်ကယ်ပေါ်က စစ်သားတစ်ဦး နေရာတင်သေဆုံး"
+        },
+        {
+          "count": 1,
+          "description": "ဆိုင်ကယ်ပေါ်က ပျူစောထီးတစ်ဦး နေရာတင်သေဆုံး"
+        }
+      ]
+    }
+  ]

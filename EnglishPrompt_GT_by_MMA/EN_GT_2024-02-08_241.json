@@ -1,0 +1,28 @@
+[
+    {
+      "crisis_type": "Fire",
+      "location": "Ohn Taw (Taung Su) village, Pauk Township, Magway Region",
+      "date_time": "2024/02/08",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Ohn Taw (Taung Su) village",
+          "description": "Almost the entire village burned down and destroyed"
+        },
+        {
+          "location": "Ohn Taw (Taung Su) village",
+          "description": "Nearly ninety houses burned down and destroyed"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": "Over 500",
+          "description": "Villagers"
+        }
+      ],
+      "fatalities": []
+    }
+  ]

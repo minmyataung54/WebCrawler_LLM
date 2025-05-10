@@ -1,0 +1,68 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ကရင်နီပြည်နယ်၊ ရှားတောမြို့",
+      "date_time": "2024/01/15",
+      "duration_hours": "one month",
+      "involved_parties": [
+        "ကရင်နီတော်လှန်ရေးတပ်များ",
+        "ကရင်နီအမျိုးသားကာကွယ်ရေးတပ် KNDF",
+        "KA",
+        "လွိုင်ကော် PDF",
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [
+      ],
+      "affected_population": [
+        {
+          "count": "တချို့",
+          "description": "စစ်သုံ့ပန်း ဖမ်းဆီးရမိ"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 160,
+          "description": "စစ်ကောင်စီဘက်မှ အယောက် ၁၆၀ ကျော် ချေမှုန်းသုတ်သင်ခံရ (ဗိုလ်မှူးကြီး၊ ဒုဗိုလ်မှူးကြီးများအပါအဝင်)"
+        },
+        {
+          "count": 3,
+          "description": "KNDF မှ ရဲဘော်သုံးဦး ကျဆုံး"
+        },
+        {
+          "count": "တချို့",
+          "description": "အခြားတပ်ဖွဲ့များမှ ရဲဘော်တချို့ ကျဆုံး"
+        }
+      ]
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ကရင်နီပြည်နယ်၊ ဖားဆောင်းမြို့နယ်၊ မော်ချီးမြို့",
+      "date_time": "2024/01/28",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ကရင်နီတော်လှန်ရေးပူးပေါင်းတပ်များ"
+      ],
+      "property_damage": [
+        {
+          "location": "သတ္ထုတွင်းများရှိသော မော်ချီးမြို့",
+          "description": "သိမ်းပိုက်ခဲ့"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ကရင်နီပြည်နယ်",
+      "date_time": "NA",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ကရင်နီတော်လှန်ရေးပူးပေါင်းတပ်များ",
+        "စစ်ကောင်စီ"
+      ],
+      "property_damage": [
+      ],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

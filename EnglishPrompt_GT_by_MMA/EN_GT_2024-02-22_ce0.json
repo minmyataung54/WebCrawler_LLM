@@ -1,0 +1,95 @@
+[
+  {
+    "crisis_type": [
+      "Armed Conflict"
+    ],
+    "location": "Near Maingpon Town, Taunggyi-Loilen Road, Southern Shan State",
+    "date_time": "2024/02/22",
+    "duration_hours": "Two consecutive days",
+    "involved_parties": [
+      "Military Council troops",
+      "PNLA Joint Forces"
+    ],
+    "property_damage": [],
+    "affected_population": [],
+    "fatalities": []
+  },
+  {
+    "crisis_type": [
+      "AirStrike/Bombing"
+    ],
+    "location": "Villages and hills northwest of Maingpon Town",
+    "date_time": "2024/02/22",
+    "duration_hours": "NA",
+    "involved_parties": [
+      "Military Council"
+    ],
+    "property_damage": [],
+    "affected_population": [],
+    "fatalities": []
+  },
+  {
+    "crisis_type": [
+      "Armed Conflict"
+    ],
+    "location": "Near Maingpon Town",
+    "date_time": "Starting from the morning of 2024/02/21",
+    "duration_hours": "Two consecutive days",
+    "involved_parties": [
+      "Military Council troops",
+      "Pa-O National Liberation Army (PNLA)"
+    ],
+    "property_damage": [],
+    "affected_population": [],
+    "fatalities": []
+  },
+  {
+    "crisis_type": "Armed Conflict",
+    "location": "East of Hopong Town",
+    "date_time": "2024/02/21",
+    "duration_hours": "NA",
+    "involved_parties": [
+      "Military Council",
+      "Subordinate People's Militia",
+      "PNLA"
+    ],
+    "property_damage": [
+      {
+        "location": "East of Hopong Town",
+        "description": "One vehicle confiscated"
+      }
+    ],
+    "affected_population": [],
+    "fatalities": [
+      {
+        "location": "East of Hopong Town",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "crisis_type": "Armed Conflict",
+    "location": "Inside Hsihseng Town, Mae Nai Taung region of Hopong Township, Than Hsan Gu area",
+    "date_time": "2024/02/21",
+    "duration_hours": "NA",
+    "involved_parties": [
+      "Military Council troops"
+    ],
+    "property_damage": [],
+    "affected_population": [],
+    "fatalities": []
+  },
+  {
+    "crisis_type": "Armed Conflict",
+    "location": "Hsihseng Town, Southern Shan State",
+    "date_time": "2024/01/NA",
+    "duration_hours": "NA",
+    "involved_parties": [
+      "PNLA Joint Forces",
+      "Revolutionary Forces"
+    ],
+    "property_damage": [],
+    "affected_population": [],
+    "fatalities": []
+  }
+]

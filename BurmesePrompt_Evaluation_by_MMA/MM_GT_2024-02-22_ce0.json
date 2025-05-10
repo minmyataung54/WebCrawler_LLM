@@ -1,0 +1,98 @@
+
+[
+        {
+          "crisis_type": [
+            "Armed Conflict"
+          ],
+          "location": "မိုင်းပွန်မြို့အနီး, တောင်ကြီး-လွိုင်လင် ကားလမ်း, ရှမ်းပြည်နယ်(တောင်ပိုင်း)",
+          "date_time": "2024/02/22",
+          "duration_hours": "နှစ်ရက်ဆက်",
+          "involved_parties": [
+            "စစ်ကောင်စီတပ်",
+            "PNLA ပူးပေါင်းတပ်"
+          ],
+          "property_damage": [],
+          "affected_population": [],
+          "fatalities": []
+        },
+        {
+          "crisis_type": [
+            "AirStrike/Bombing"
+          ],
+          "location": "မိုင်းပွန်မြို့ အနောက်မြောက်ဘက် ကျေးရွာများနှင့် တောင်ကုန်းများ",
+          "date_time": "2024/02/22",
+          "duration_hours": "NA",
+          "involved_parties": [
+            "စစ်ကောင်စီ"
+          ],
+          "property_damage": [],
+          "affected_population": [],
+          "fatalities": []
+        },
+        {
+            "crisis_type": [
+              "Armed Conflict"
+            ],
+            "location": "မိုင်းပွန်မြို့အနီး",
+            "date_time": "2024/02/21 မနက်ပိုင်းမှစ",
+            "duration_hours": "နှစ်ရက်ဆက်",
+            "involved_parties": [
+              "စစ်ကောင်စီတပ်",
+              "ပအိုဝ်းအမျိုးသားလွတ်မြောက်ရေးတပ်မတော် (PNLA)"
+            ],
+            "property_damage": [],
+            "affected_population": [],
+            "fatalities": []
+          },
+        
+      
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ဟိုပုံးမြို့၏ အရှေ့ဘက်",
+      "date_time": "2024/02/21",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီ",
+        "လက်အောက်ခံ ပြည်သူ့စစ်အဖွဲ့",
+        "PNLA"
+      ],
+      "property_damage": [
+        {
+          "location": "ဟိုပုံးမြို့၏ အရှေ့ဘက်",
+          "description": "သိမ်းဆည်းရမိခဲ့သော ကားတစ်စီး"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": [
+        {
+          "location": "ဟိုပုံးမြို့၏ အရှေ့ဘက်",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ဆီဆိုင်မြို့အတွင်း၊ ဟိုပုံးမြို့နယ် မဲနယ်တောင်ဒေသ၊ ထမ်းဆန်းဂူဒေသ",
+      "date_time": "2024/02/21",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီတပ်"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "ဆီဆိုင်မြို့၊ ရှမ်းပြည်နယ်တောင်ပိုင်း",
+      "date_time": "2024/01/NA",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "PNLA ပူးပေါင်းတပ်",
+        "တော်လှန်ရေးအင်အားစု"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

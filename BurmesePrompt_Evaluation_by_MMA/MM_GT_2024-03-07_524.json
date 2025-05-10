@@ -1,0 +1,100 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict"
+      ],
+      "location": "မြဝတီမြို့အဝင်, သင်္ဃန်းညီနောင်ရွာအနီး, ထိုင်းမြန်မာနယ်စပ်",
+      "date_time": "2024/03/08",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီ",
+        "KNLA ပူးပေါင်းတပ်များ"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Fire/Bombing"
+      ],
+      "location": "မြဝတီ-ကော့ကရိတ် ကားလမ်းဘေး, ခမရ ၃၅၅",
+      "date_time": "From 2024/03/07 morning onwards",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "တော်လှန်ရေးပူးပေါင်းတပ်များ",
+        "စစ်ကောင်စီ (ခမရ ၃၅၅)"
+      ],
+      "property_damage": ["မြဝတီသဘာဝတရားရိပ်သာဆေးရုံ"],
+      "affected_population": [
+        {
+            "location": "မြဝတီသဘာဝတရားရိပ်သာဆေးရုံ",
+            "count": 11 
+          }
+      ],
+      "fatalities": [{
+        "location": "မြဝတီသဘာဝတရားရိပ်သာဆေးရုံ",
+        "count": 2
+      }
+        
+      ]
+    },
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing"
+      ],
+      "location": "သင်္ဃန်းညီနောင်ကျေးရွာအုပ်စု, မြဝတီ",
+      "date_time": "From 2024/03/07 onwards",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "KNLA ဦးဆောင်သော တော်လှန်ရေးပူးပေါင်းတပ်များ",
+        "စစ်ကောင်စီ (ခမရ ၃၅၅, ၃၅၆, ၃၅၇)"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "ခမရ ၃၅၅ အနီး",
+          "count": "ထွက်ပြေးနေကြရသော ဒေသခံများ, ပိတ်မိနေသူများ"
+        }
+      ],
+      "fatalities": []
+    },
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing"
+      ],
+      "location": "သင်္ဃန်းညီနောင် ဗျူဟာကုန်း",
+      "date_time": "2024/03/08",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီ",
+        "ကော်ဘရာစစ်ကြောင်း"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": [
+        "Armed Conflict"
+      ],
+      "location": "သင်္ဃန်းညီနောင်ကျေးရွာအုပ်စု",
+      "date_time": "2024/03/08",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီ",
+        "KNLA ပူးပေါင်းတပ်များ"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "location": "မြဝတီမြို့ဘက်နှင့် နီးစပ်ရာ ဘုန်းကြီးကျောင်းများ",
+          "count": "တစ်ထောင်ကျော်ခန့်"
+        }
+      ],
+      "fatalities": []
+    }
+  ]

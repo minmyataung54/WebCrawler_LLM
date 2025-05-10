@@ -1,0 +1,42 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "AirStrike/Bombing",
+        "Fire"
+      ],
+      "location": "Rambrae town, southern Rakhine State",
+      "date_time": "2024/02/13",
+      "duration_hours": "2 days",
+      "involved_parties": [
+        "Military Council troops",
+        "Arakan Army (AA)"
+      ],
+      "property_damage": [
+        {
+          "location": "Rambrae town",
+          "description": "Some houses burned down and destroyed"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Kyauktaw town, Rakhine State",
+      "date_time": "2024/02/13",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Arakan Army (AA)",
+        "Military Council troops"
+      ],
+      "property_damage": [
+        {
+          "location": "Warships",
+          "description": "Three Military Council warships attacked and sunk"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

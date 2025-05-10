@@ -1,0 +1,78 @@
+[
+  {
+    "crisis_type": "Fire",
+    "location": "Khothan village, north of Monywa, Sagaing Region, Myanmar (near Northwestern Regional Military Headquarters)",
+    "date_time": "03/05/2024",
+    "duration_hours": "NA",
+    "involved_parties": [
+      "Military Council troops"
+    ],
+    "property_damage": [
+      {
+        "location": "Khothan village",
+        "description": "Ancient buildings and numerous monasteries and religious structures."
+      },
+      {
+        "location": "Khothan village",
+        "description": "Remaining houses after a previous fire."
+      }
+
+    ],
+    "affected_population": [
+      {
+        "location": "Khothan village and nearby villages",
+        "count": "Many displaced"
+      }
+    ],
+    "fatalities": []
+  },
+  {
+    "crisis_type": "Armed Conflict",
+    "location": "Khothan village, north of Monywa, Sagaing    Region, Myanmar",
+    "date_time": "03/04/2024",
+    "duration_hours": "NA",
+    "involved_parties": [
+      "Military Council troops"
+    ],
+    "property_damage": [],
+    "affected_population": [],
+    "fatalities": []
+  },
+  {
+    "crisis_type": [
+      "Fire",
+      "Armed conflict"
+    ],
+    "location": "Khothan village, Sagaing Region, Myanmar",
+    "date_time": "03/01/2024",
+    "duration_hours": "NA",
+    "involved_parties": [
+      "Military Council troops"
+    ],
+    "property_damage": [
+      {
+        "location": "Khothan village",
+        "description": "Around 100 to 150 houses destroyed by fire."
+      }
+    ],
+    "affected_population": [],
+    "fatalities": []
+  },
+  {
+    "crisis_type": "Armed Conflict",
+    "location": "Villages around the Northwestern Regional Military Headquarters, Monywa, Sagaing Region, Myanmar",
+    "date_time": "From 10/24/2023 onwards",
+    "duration_hours": "NA",
+    "involved_parties": [
+      "Military Council troops"
+    ],
+    "property_damage": [],
+    "affected_population": [
+      {
+        "location": "Villages around Northwestern Regional Military Headquarters",
+        "count": "Displaced villagers"
+      }
+    ],
+    "fatalities": []
+  }
+]

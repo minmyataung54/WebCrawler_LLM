@@ -1,0 +1,46 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Fire"
+      ],
+      "location": "Myauk Khin Yan village, Gangaw Township, Magway Region",
+      "date_time": "NA",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Yaw Defense Force YDF",
+        "Military Council troops",
+        "Pyu Saw Htee group"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": 2,
+          "description": "Burned alive"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 2,
+          "description": "Burned alive"
+        }
+      ]
+    },
+    {
+      "crisis_type": "Civil Unrest",
+      "location": "Mandalay city, Yangon city",
+      "date_time": "2024/02/01",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Supporters of the Military Council"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": "More than five",
+          "description": "Arrested"
+        }
+      ],
+      "fatalities": []
+    }
+  ]

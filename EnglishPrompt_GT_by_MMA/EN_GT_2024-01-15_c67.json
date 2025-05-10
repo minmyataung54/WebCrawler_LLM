@@ -1,0 +1,38 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "2024/01/16",
+      "location": "Namphatka area, Kutkai Township, Northern Shan State",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Kachin Independence Army (KIA)",
+        "Military Council"
+      ],
+      "property_damage": [
+        {
+          "location": "Namphatka area",
+          "description": "One Military Council jet fighter shot down"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "date_time": "2024/01/03",
+      "location": "Near Laiza",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Kachin Independence Army (KIA)",
+        "Military Council"
+      ],
+      "property_damage": [
+        {
+          "location": "Near Laiza",
+          "description": "One Military Council helicopter shot down"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

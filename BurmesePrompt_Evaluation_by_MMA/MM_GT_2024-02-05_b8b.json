@@ -1,0 +1,45 @@
+[
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "ကယားပြည်နယ်၊ ဒီးမော့ဆိုမြို့နယ်အနောက်ခြမ်း၊ ဒေါဆီအီရွာ",
+      "date_time": "2024/02/05 10:00",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီလေတပ်"
+      ],
+      "property_damage": [
+        {
+          "location": "စာသင်ကျောင်း",
+          "description": "တစ်ခုလုံးပျက်စီးသွားတယ်"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": 4,
+          "description": "စာသင်နေတဲ့ ကလေးငယ်တချို့ သေဆုံး"
+        },
+        {
+          "count": "၁၀ ဦးထက်မနည်း",
+          "description": "အများအပြားထိခိုက်ဒဏ်ရာရ"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 4,
+          "description": "ကလေးငယ်(ကျား) လေးဦးသေဆုံး"
+        }
+      ]
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "ကယားပြည်နယ်၊ ဒီးမော့ဆိုမြို့နယ်အနောက်ခြမ်းအနီး၊ လွိုင်နန်းဖရွာ",
+      "date_time": "2024/02/05",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီလေတပ်"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

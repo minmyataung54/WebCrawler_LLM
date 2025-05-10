@@ -1,0 +1,66 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Fire"
+      ],
+      "location": "Near Let Gyi and Ywar Ma villages, near the Sagaing-Monywa road, Sagaing Region",
+      "date_time": "2024/01/24",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops",
+        "Local defense force members"
+      ],
+      "property_damage": [
+        {
+          "location": "Ywar Ma village",
+          "description": "Raided with heavy and small arms fire"
+        },
+        {
+          "location": "Let Gyi village",
+          "description": "Set on fire"
+        },
+        {
+          "location": "Ywar Ma village",
+          "description": "Set on fire"
+        },
+        {
+          "location": "Ywar Ma village",
+          "description": "Around twenty houses destroyed by fire"
+        }
+      ],
+      "affected_population": [
+        {
+          "location": "Let Gyi and Ywar Ma villages",
+          "count": "Many",
+          "description": "Affected population"
+        }
+      ],
+      "fatalities": [
+        {
+          "location": "Let Gyi and Ywar Ma villages",
+          "count": 4,
+          "description": "Fatalities"
+        }
+      ]
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Kwan Chan village, Butalin Township",
+      "date_time": "2024/01/22",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council troops",
+        "Defense force members"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": [
+        {
+          "location": "Kwan Chan village",
+          "count": 1,
+          "description": "Fatality"
+        }
+      ]
+    }
+  ]

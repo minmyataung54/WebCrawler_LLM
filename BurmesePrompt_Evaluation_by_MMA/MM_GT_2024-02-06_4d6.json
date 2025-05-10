@@ -1,0 +1,46 @@
+[
+    {
+      "crisis_type": [
+        "Armed Conflict",
+        "Fire"
+      ],
+      "location": "မကွေးတိုင်း၊ ဂန့်ဂေါမြို့နယ်၊ မြောက်ခင်ရန်းရွာ",
+      "date_time": "NA",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ယောကာကွယ်ရေးတပ်ဖွဲ့ YDF",
+        "စစ်ကောင်စီတပ်",
+        "ပျူစောထီးအဖွဲ့"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": 2,
+          "description": "အရှင်လတ်လတ်မီးရှို့သတ်ခံရ"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 2,
+          "description": "အရှင်လတ်လတ်မီးရှို့သတ်ခံရ"
+        }
+      ]
+    },
+    {
+      "crisis_type": "Civil Unrest",
+      "location": "မန္တလေးမြို့၊ ရန်ကုန်မြို့",
+      "date_time": "2024/02/01",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "စစ်ကောင်စီထောက်ခံသူများ"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": "ငါးဦးထက်မနည်း",
+          "description": "ဖမ်းဆီးခံရ"
+        }
+      ],
+      "fatalities": []
+    }
+]

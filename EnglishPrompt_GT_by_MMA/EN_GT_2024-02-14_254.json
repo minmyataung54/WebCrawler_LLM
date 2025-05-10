@@ -1,0 +1,66 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Shartaw town, Karenni State",
+      "date_time": "2024/01/15",
+      "duration_hours": "one month",
+      "involved_parties": [
+        "Karenni revolutionary forces",
+        "Karenni Nationalities Defense Force KNDF",
+        "KA",
+        "Loikaw PDF",
+        "Military Council troops"
+      ],
+      "property_damage": [],
+      "affected_population": [
+        {
+          "count": "Some",
+          "description": "Prisoners of war captured"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 160,
+          "description": "Over 160 from the Military Council side annihilated (including majors and lieutenant colonels)"
+        },
+        {
+          "count": 3,
+          "description": "Three comrades from KNDF sacrificed"
+        },
+        {
+          "count": "Some",
+          "description": "Some comrades from other forces sacrificed"
+        }
+      ]
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Mawchi town, Phasaung Township, Karenni State",
+      "date_time": "2024/01/28",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Karenni revolutionary joint forces"
+      ],
+      "property_damage": [
+        {
+          "location": "Mawchi town with mines",
+          "description": "Captured"
+        }
+      ],
+      "affected_population": [],
+      "fatalities": []
+    },
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "Karenni State",
+      "date_time": "NA",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Karenni revolutionary joint forces",
+        "Military Council"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]

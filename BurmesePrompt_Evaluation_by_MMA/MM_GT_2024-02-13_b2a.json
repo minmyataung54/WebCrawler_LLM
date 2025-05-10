@@ -1,0 +1,30 @@
+[
+    {
+      "crisis_type": "Armed Conflict",
+      "location": "မကွေးတိုင်း၊ မြိုင်မြို့နယ်၊ သရက်ကန်ပျူရွာ",
+      "date_time": "2024/02/13",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "ပျူစောထီး",
+        "Earthquake Peoples Defense Force"
+      ],
+      "property_damage": [
+        {
+          "location": "ဘန်ကာ",
+          "description": "မီးရှို့ခံရ"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": 5,
+          "description": "အရှင်ဖမ်းမိ"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 7,
+          "description": "သေဆုံး"
+        }
+      ]
+    }
+  ]

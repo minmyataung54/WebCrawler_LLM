@@ -1,0 +1,45 @@
+[
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "Daw Si Ei village, western Demawso Township, Kayah State",
+      "date_time": "2024/02/05 10:00",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council Air Force"
+      ],
+      "property_damage": [
+        {
+          "location": "School",
+          "description": "Completely destroyed"
+        }
+      ],
+      "affected_population": [
+        {
+          "count": 4,
+          "description": "Some children who were studying died"
+        },
+        {
+          "count": "Over 10",
+          "description": "Many injured"
+        }
+      ],
+      "fatalities": [
+        {
+          "count": 4,
+          "description": "Four male children died"
+        }
+      ]
+    },
+    {
+      "crisis_type": "AirStrike/Bombing",
+      "location": "Loi Nan Hpa village, near western Demawso Township, Kayah State",
+      "date_time": "2024/02/05",
+      "duration_hours": "NA",
+      "involved_parties": [
+        "Military Council Air Force"
+      ],
+      "property_damage": [],
+      "affected_population": [],
+      "fatalities": []
+    }
+  ]
