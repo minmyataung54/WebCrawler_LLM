@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Airstrike",
+  "location": "သံတွဲမြို့နယ်, ရခိုင်ပြည်နယ်, မြန်မာ",
+  "date": "၁၉.၁၂.၂၀၂၄",
+  "affect_civilian": "TRUE",
+  "affect_women": "TRUE",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်"]
+}

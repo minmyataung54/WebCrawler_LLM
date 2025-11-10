@@ -1,0 +1,30 @@
+[
+    {
+        "crisis_type": "Airstrike",
+        "location": "ဒီးမော့ဆိုမြို့နယ်, ကယားပြည်နယ်, မြန်မာ",
+        "date": "၀၅.၀၂.၂၀၂၄",
+        "affect_civilian": "TRUE",
+        "affect_women": "NA",
+        "affect_children": "TRUE",
+        "civilian_properties_damage": "TRUE",
+        "civilian_forced_displacement": "FALSE",
+        "civilian_fatalities": 4,
+        "armed_personnel_fatalities": "NA",
+        "number_of_people_displaced": "NA",
+        "involved_parties": ["စစ်တပ်"]
+    },
+    {
+        "crisis_type": "Airstrike",
+        "location": "ဒီးမော့ဆိုမြို့နယ်, ကယားပြည်နယ်, မြန်မာ",
+        "date": "NA",
+        "affect_civilian": "NA",
+        "affect_women": "NA",
+        "affect_children": "NA",
+        "civilian_properties_damage": "NA",
+        "civilian_forced_displacement": "NA",
+        "civilian_fatalities": "NA",
+        "armed_personnel_fatalities": "NA",
+        "number_of_people_displaced": "NA",
+        "involved_parties": ["စစ်တပ်"]
+    }
+]

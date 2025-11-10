@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Airstrike",
+  "location": "ကျိုက်မရောမြို့နယ်, မွန်ပြည်နယ်, မြန်မာ",
+  "date": "၁၉.၀၇.၂၀၂၄",
+  "affect_civilian": "TRUE",
+  "affect_women": "TRUE",
+  "affect_children": "TRUE",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "13",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်"]
+}

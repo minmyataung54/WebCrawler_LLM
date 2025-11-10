@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-04-19_4c4b7d0500eef7741faf07607b5902a8",
+  "published_date": "19/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Myaing Township, Magway Region, Myanmar",
+      "date": "NA",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

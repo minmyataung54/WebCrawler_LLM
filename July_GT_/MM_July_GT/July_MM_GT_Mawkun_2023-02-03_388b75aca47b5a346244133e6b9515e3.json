@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "မြင်းမူမြို့နယ်, စစ်ကိုင်းတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၀၄.၀၂.၂၀၂၃",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "1",
+  "armed_personnel_fatalities": "15",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "ပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ (PDF)"]
+}

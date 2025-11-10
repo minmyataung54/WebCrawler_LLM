@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Airstrike",
+  "location": "Myaing Township, Magway Region, Myanmar",
+  "date": "NA",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "TRUE",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": 1,
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["Military"]
+}

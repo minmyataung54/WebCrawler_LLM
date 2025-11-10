@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-11-11_be99520b9ceaba9b7efbb85725341747",
+  "published_date": "12/11/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Pale Township, Sagaing Region, Myanmar",
+      "date": "12/11/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 3,
+      "armed_personnel_fatalities": 2,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Burma National Revolutionary Army (BNRA)"
+      ]
+    }
+  ]
+}

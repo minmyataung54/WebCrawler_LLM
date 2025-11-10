@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-02-10_4b7a0ca01b64ef44d65974680641d4cd",
+  "published_date": "11/02/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Pakokku Township, Magway Region, Myanmar",
+      "date": "11/02/2023",
+      "affected_civilian": "FALSE",
+      "affected_women": "FALSE",
+      "affected_children": "FALSE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 7,
+      "number_of_people_displaced": 1000,
+      "involved_parties": [
+        "Military",
+        "People's Defense Force (PDF)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-05-16_3208231f9571a9b818605a34d264312c",
+  "published_date": "17/05/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed conflict",
+      "location": "Yinmabin Township, Sagaing Region, Myanmar",
+      "date": "17/5/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 6,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military , Local Defense Forces"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "article_id": "EA_Mawkun_2024-06-11_454cb46f89c55a2d947bbdc0ff98be4a",
+  "published_date": "21/06/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Bombing",
+      "location": "Chanayethazan Township, Mandalay, Myanmar",
+      "date": "12/06/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": []
+    }
+  ]
+}

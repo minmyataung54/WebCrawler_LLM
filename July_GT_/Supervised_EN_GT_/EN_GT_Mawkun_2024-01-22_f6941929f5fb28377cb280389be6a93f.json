@@ -1,0 +1,29 @@
+{
+  "article_id": "EA_Mawkun_2024-01-22_f6941929f5fb28377cb280389be6a93f",
+  "published_date": "23/01/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Yinmarbin Township, Sagaing State, Myanmar",
+      "date": "21/01/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 17,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Spring Guerrilla Platoon",
+        "Military",
+        "KLG PDF",
+        "Kyauk Lone Gyi Group",
+        "Yinmabin District",
+        "ULF Joint Forces",
+        "Local PDF"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_id": "EA_Mawkun_2024-10-07_1edfb240f7c2a00ab3c4c7f08f6a9b61",
+  "published_date": "08/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": " Maungdaw Township, Rakhine State, Myanmar",
+      "date": "07/10/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 2,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    },
+    {
+      "event_id": "e2",
+      "crisis_type": "Airstrike",
+      "location": "Taung koke Township, Rakhine State, Myanmar",
+      "date": "07/10/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 15,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

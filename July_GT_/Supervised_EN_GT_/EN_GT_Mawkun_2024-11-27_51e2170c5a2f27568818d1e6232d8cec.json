@@ -1,0 +1,42 @@
+{
+  "article_id": "EA_Mawkun_2024-11-27_51e2170c5a2f27568818d1e6232d8cec",
+  "published_date": "28/11/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Thanbyuzayat Township, Mon State, Myanmar",
+      "date": "23/11/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 3,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "NMSP-AD"
+      ]
+    },
+    {
+      "event_id": "e2",
+      "crisis_type": "Airstrike",
+      "location": "Mudon Township, Mon State, Myanmar",
+      "date": "26/11/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 5,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "NMSP-AD"
+      ]
+    }
+  ]
+}

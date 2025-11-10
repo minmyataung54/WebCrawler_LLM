@@ -1,0 +1,30 @@
+[
+    {
+        "crisis_type": "Armed Conflict",
+        "location": "Kyar Inn Seikkyi Township, Kayin State, Myanmar",
+        "date": "02/06/2023",
+        "affect_civilian": "TRUE",
+        "affect_women": "NA",
+        "affect_children": "NA",
+        "civilian_properties_damage": "TRUE",
+        "civilian_forced_displacement": "FALSE",
+        "civilian_fatalities": "NA",
+        "armed_personnel_fatalities": "NA",
+        "number_of_people_displaced": "NA",
+        "involved_parties": ["Military", "Karen National Liberation Army (KNLA)", "People's Defense Force (PDF)"]
+    },
+    {
+        "crisis_type": "Armed Conflict",
+        "location": "Kyaikto Township, Mon State, Myanmar",
+        "date": "01/06/2023",
+        "affect_civilian": "NA",
+        "affect_women": "NA",
+        "affect_children": "NA",
+        "civilian_properties_damage": "NA",
+        "civilian_forced_displacement": "NA",
+        "civilian_fatalities": "NA",
+        "armed_personnel_fatalities": 9,
+        "number_of_people_displaced": "NA",
+        "involved_parties": ["Military", "Karen National Liberation Army (KNLA)", "People's Defense Force (PDF)"]
+    }
+]

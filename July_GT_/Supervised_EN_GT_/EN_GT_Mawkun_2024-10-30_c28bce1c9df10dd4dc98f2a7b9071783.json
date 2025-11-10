@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-10-30_c28bce1c9df10dd4dc98f2a7b9071783",
+  "published_date": "30/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "NA",
+      "date": "28/10/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 16,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Mandalay People's Defence Force (MDY PDF)"
+      ]
+    }
+  ]
+}

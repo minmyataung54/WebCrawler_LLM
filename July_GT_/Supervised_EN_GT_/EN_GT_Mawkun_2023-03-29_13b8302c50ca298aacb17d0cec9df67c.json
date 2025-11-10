@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-29_13b8302c50ca298aacb17d0cec9df67c",
+  "published_date": "30/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "Htigyaing Township, Sagaing Region, Myanmar",
+      "date": "30/03/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

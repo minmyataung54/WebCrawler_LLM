@@ -1,0 +1,57 @@
+{
+  "article_id": "EA_Mawkun_2024-10-10_03430882f9ab39a9776c97f895de5fe0",
+  "published_date": "11/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Kyauktaw Township, Rakhine State, Myanmar",
+      "date": "10/10/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 6,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    },
+    {
+      "event_id": "e2",
+      "crisis_type": "Airstrike",
+      "location": "Ponnagyun Township, Rakhine State, Myanmar",
+      "date": "10/10/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    },
+    {
+      "event_id": "e3",
+      "crisis_type": "Airstrike",
+      "location": "Myebon Township, Rakhine State, Myanmar",
+      "date": "10/10/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

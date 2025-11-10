@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-04-10_2d606fcb9e476eae5504323942a3dde4",
+  "published_date": "10/04/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed conflict",
+      "location": "Myawaddy Township, Kayin State, Myanmar",
+      "date": "10/04/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military, KNLA, Revolutionary Forces"
+      ]
+    }
+  ]
+}

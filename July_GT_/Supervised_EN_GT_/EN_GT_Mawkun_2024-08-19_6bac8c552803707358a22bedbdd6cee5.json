@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2024-08-19_6bac8c552803707358a22bedbdd6cee5",
+  "published_date": "20/08/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed conflict",
+      "location": "Ye Township, Mon State, Myanmar",
+      "date": "19/08/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 1,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "DKBA",
+        "KNU"
+      ]
+    }
+  ]
+}

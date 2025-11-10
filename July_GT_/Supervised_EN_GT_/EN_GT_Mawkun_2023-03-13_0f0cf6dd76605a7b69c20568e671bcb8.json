@@ -1,0 +1,26 @@
+{
+  "article_id": "EA_Mawkun_2023-03-13_0f0cf6dd76605a7b69c20568e671bcb8",
+  "published_date": "14/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "NA",
+      "date": "12/03/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 3,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military",
+        "Phekone PDF battelion 2",
+        "KNDF BO3",
+        "URF combined Forces"
+      ]
+    }
+  ]
+}

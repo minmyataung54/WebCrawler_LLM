@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-04-18_420e4f630d04740e8ab4b9c774447eed",
+  "published_date": "19/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Kani Township, Sagaing Region, Myanmar",
+      "date": "17/04/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": 1,
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Yin Mar Bin People's Defense Force (PDF)",
+        "Military"
+      ]
+    }
+  ]
+}

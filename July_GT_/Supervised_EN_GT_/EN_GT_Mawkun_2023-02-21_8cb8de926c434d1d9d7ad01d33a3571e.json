@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-02-21_8cb8de926c434d1d9d7ad01d33a3571e",
+  "published_date": "22/02/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "Yinmabin Township, Sagaing Region, Myanmar",
+      "date": "22/02/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "military",
+        "Pyu Saw Htee"
+      ]
+    }
+  ]
+}

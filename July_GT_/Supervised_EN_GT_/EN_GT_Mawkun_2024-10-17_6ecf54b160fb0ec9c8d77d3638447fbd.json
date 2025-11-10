@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2024-10-17_6ecf54b160fb0ec9c8d77d3638447fbd",
+  "published_date": "18/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed conflict",
+      "location": "Myawaddy Township, Karen State, Myanmar",
+      "date": "17/10/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "KNU",
+        "Revolutionary combined forces"
+      ]
+    }
+  ]
+}

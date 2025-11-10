@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-07-10_b9ba283fac6a65fa6b153db0edb6af26",
+  "published_date": "10/07/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Mogok Township, Mandalay Region, Myanmar",
+      "date": "08/07/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 2,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

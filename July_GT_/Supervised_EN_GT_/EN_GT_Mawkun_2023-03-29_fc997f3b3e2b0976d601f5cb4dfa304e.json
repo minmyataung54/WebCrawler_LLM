@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-29_fc997f3b3e2b0976d601f5cb4dfa304e",
+  "published_date": "30/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Kanbalu Township, Sagaing Region, Myanmar",
+      "date": "30/03/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

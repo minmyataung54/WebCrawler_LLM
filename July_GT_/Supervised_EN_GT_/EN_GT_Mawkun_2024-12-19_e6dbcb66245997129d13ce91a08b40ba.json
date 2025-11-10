@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-12-19_e6dbcb66245997129d13ce91a08b40ba",
+  "published_date": "19/12/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Maungdaw Township, Rakhine State, Myanmar",
+      "date": "18/12/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

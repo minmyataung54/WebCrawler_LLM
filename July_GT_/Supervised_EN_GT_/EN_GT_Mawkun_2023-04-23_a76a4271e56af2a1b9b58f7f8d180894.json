@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-04-23_a76a4271e56af2a1b9b58f7f8d180894",
+  "published_date": "24/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Hteechaing Township, Sagaing Region, Myanmar",
+      "date": "24/04/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military",
+        "People Defense Force (PDF)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-04-24_a2fe1e429402b0726def4a3d71094feb",
+  "published_date": "25/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Yesagyo Township, Magway Region, Myanmar",
+      "date": "24/04/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Yesagyo People's Defence Force (PDF)",
+        "Military"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "crisis_type": "Armed Conflict",
+    "location": "လားရှိုး, ရှမ်းပြည်နယ်, မြန်မာ",
+    "date": "၂၂.၀၇.၂၀၂၄",
+    "affect_civilian": "NA",
+    "affect_women": "NA",
+    "affect_children": "NA",
+    "civilian_properties_damage": "NA",
+    "civilian_forced_displacement": "NA",
+    "civilian_fatalities": "NA",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": ["စစ်တပ်", "မြန်မာအမျိုးသားဒီမိုကရက်တစ်မဟာမိတ်တပ်မတော် (MNDAA)"]
+  },
+  {
+    "crisis_type": "AirStrike",
+    "location": "လောက်ကိုင်, ရှမ်းပြည်နယ်, မြန်မာ",
+    "date": "၂၃.၀၇.၂၀၂၄",
+    "affect_civilian": "NA",
+    "affect_women": "NA",
+    "affect_children": "NA",
+    "civilian_properties_damage": "TRUE",
+    "civilian_forced_displacement": "NA",
+    "civilian_fatalities": "NA",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": ["စစ်တပ်"]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Fire",
+  "location": "ပုလဲမြို့နယ်, စစ်ကိုင်းတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၀၂.၀၄.၂၀၂၃",
+  "affect_civilian": "TRUE",
+  "affect_women": "TRUE",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": 1,
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်"]
+}

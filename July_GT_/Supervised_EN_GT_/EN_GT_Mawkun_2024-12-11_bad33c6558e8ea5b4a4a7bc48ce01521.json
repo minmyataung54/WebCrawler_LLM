@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-12-11_bad33c6558e8ea5b4a4a7bc48ce01521",
+  "published_date": "12/12/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Zee kone Township, Bago Region, Myanmar",
+      "date": "11/12/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 3,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "BTZM GBK PDF"
+      ]
+    }
+  ]
+}

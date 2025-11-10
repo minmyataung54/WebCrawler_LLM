@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-02-13_b2ad4b10067b8a3a8155839fa33758cc",
+  "published_date": "13/02/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Myaing Township, Magway Region, Myanmar",
+      "date": "13/02/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 7,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Earthquake People's Defense Force (PDF)",
+        "Pyu Saw Htee"
+      ]
+    }
+  ]
+}

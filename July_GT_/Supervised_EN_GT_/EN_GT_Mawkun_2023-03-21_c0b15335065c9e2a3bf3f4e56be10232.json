@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-21_c0b15335065c9e2a3bf3f4e56be10232",
+  "published_date": "22/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Bombing",
+      "location": "Amarapura Township, Mandalay Region, Myanmar",
+      "date": "22/03/2023",
+      "affected_civilian": "FALSE",
+      "affected_women": "FALSE",
+      "affected_children": "FALSE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": 1,
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-12-19_6cefa22460f5776af551f9a030cbca84",
+  "published_date": "19/12/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Madaya Township, Mandalay Region, Myanmar",
+      "date": "19/12/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "People's Defense Force - Mandalay (MDY-PDF)"
+      ]
+    }
+  ]
+}

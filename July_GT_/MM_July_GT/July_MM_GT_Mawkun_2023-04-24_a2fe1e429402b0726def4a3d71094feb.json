@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "ရေစကြိုမြို့နယ်, မကွေးတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၂၄.၀၄.၂၀၂၃",
+  "affect_civilian": "TRUE",
+  "affect_women": "TRUE",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["ပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ (PDF)", "စစ်တပ်"]
+}

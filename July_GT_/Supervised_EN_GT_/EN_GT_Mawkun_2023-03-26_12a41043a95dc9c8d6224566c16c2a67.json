@@ -1,0 +1,21 @@
+{
+  "article_id": "EA_Mawkun_2023-03-26_12a41043a95dc9c8d6224566c16c2a67",
+  "published_date": "27/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Mogok Township, Mandalay Region, Myanmar",
+      "date": "26/03/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": []
+    }
+  ]
+}

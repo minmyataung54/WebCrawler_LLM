@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-03-21_54bf8c8c2442526122f7759204f57bef",
+  "published_date": "22/03/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Pekon Township, Shan State, Myanmar",
+      "date": "22/03/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 2,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

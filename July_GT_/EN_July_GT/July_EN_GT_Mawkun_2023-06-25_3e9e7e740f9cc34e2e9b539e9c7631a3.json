@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "Mindat Township, Chin Region, Myanmar",
+  "date": "26/06/2023",
+  "affect_civilian": "FALSE",
+  "affect_women": "FALSE",
+  "affect_children": "FALSE",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["Chinland Defense Force (CDF)", "Military"]
+}

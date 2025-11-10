@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-06-21_0b354e0bd102f1e693e649920b4791c9",
+  "published_date": "22/06/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Hpruso Township, Kayah State, Myanmar",
+      "date": "22/06/2023",
+      "affected_civilian": "FALSE",
+      "affected_women": "FALSE",
+      "affected_children": "FALSE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 300,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

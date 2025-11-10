@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Bombing",
+  "location": "တာမွေမြို့နယ်, ရန်ကုန်တိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၂၈.၀၃.၂၀၂၃",
+  "affect_civilian": "FALSE",
+  "affect_women": "TRUE",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "အမည်မသိလက်နက်ကိုင်အဖွဲ့"]
+}

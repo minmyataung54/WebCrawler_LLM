@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2023-03-15_fa80266fc24650ce87b35039b8f539c4",
+  "published_date": "16/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Butalin Township, Sagaing Region, Myanmar",
+      "date": "15/03/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": 3,
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military",
+        "CNO/CNDF",
+        "People's Defense Force (PDF)"
+      ]
+    }
+  ]
+}

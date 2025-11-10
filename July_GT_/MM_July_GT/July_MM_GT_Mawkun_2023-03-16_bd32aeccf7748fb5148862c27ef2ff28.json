@@ -1,0 +1,34 @@
+[
+  {
+    "crisis_type": "Attack",
+    "location": "ဆားလင်းကြီးမြို့နယ်, စစ်ကိုင်းတိုင်းဒေသကြီး, မြန်မာ",
+    "date": "၁၇.၀၃.၂၀၂၃",
+    "affect_civilian": "TRUE",
+    "affect_women": "NA",
+    "affect_children": "NA",
+    "civilian_properties_damage": "NA",
+    "civilian_forced_displacement": "NA",
+    "civilian_fatalities": "1",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": [
+      "စစ်တပ်"
+    ]
+  },
+  {
+    "crisis_type": "Attack",
+    "location": "ဆားလင်းကြီးမြို့နယ်, စစ်ကိုင်းတိုင်းဒေသကြီး, မြန်မာ",
+    "date": "၁၇.၀၃.၂၀၂၃",
+    "affect_civilian": "TRUE",
+    "affect_women": "NA",
+    "affect_children": "NA",
+    "civilian_properties_damage": "TRUE",
+    "civilian_forced_displacement": "TRUE",
+    "civilian_fatalities": "NA",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": [
+      "စစ်တပ်"
+    ]
+  }
+]

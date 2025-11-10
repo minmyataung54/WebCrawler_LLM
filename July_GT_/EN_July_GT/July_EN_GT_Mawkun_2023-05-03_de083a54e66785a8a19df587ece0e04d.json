@@ -1,0 +1,32 @@
+[
+    {
+        "crisis_type": "Fire",
+        "location": "Sint kuu Township, Mandalay Region, Myanmar",
+        "date": "04/05/2023",
+        "affect_civilian": "NA",
+        "affect_women": "NA",
+        "affect_children": "NA",
+        "civilian_properties_damage": "TRUE",
+        "civilian_forced_displacement": "NA",
+        "civilian_fatalities": "NA",
+        "armed_personnel_fatalities": "NA",
+        "number_of_people_displaced": "NA",
+        "involved_parties": ["Military"]
+    },
+    {
+        
+        "crisis_type": "Attack",
+        "location": "Singu Township, Mandalay Region, Myanmar",
+        "date": "03/05/2023",
+        "affect_civilian": "FALSE",
+        "affect_women": "NA",
+        "affect_children": "NA",
+        "civilian_properties_damage": "TRUE",
+        "civilian_forced_displacement": "TRUE",
+        "civilian_fatalities": "NA",
+        "armed_personnel_fatalities": "NA",
+        "number_of_people_displaced": "NA",
+        "involved_parties": ["Military"]
+
+    }
+]

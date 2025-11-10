@@ -1,0 +1,30 @@
+[
+    {
+        "crisis_type": "Armed Conflict",
+        "location": "ကြာအင်းဆိပ်ကြီးမြို့နယ်, ကရင်ပြည်နယ်, မြန်မာ",
+        "date": "၀၂.၀၆.၂၀၂၃",
+        "affect_civilian": "TRUE",
+        "affect_women": "NA",
+        "affect_children": "NA",
+        "civilian_properties_damage": "TRUE",
+        "civilian_forced_displacement": "FALSE",
+        "civilian_fatalities": "NA",
+        "armed_personnel_fatalities": "NA",
+        "number_of_people_displaced": "NA",
+        "involved_parties": ["စစ်တပ်", "ကရင်အမျိုးသားလွတ်မြောက်ရေးတပ်မတော် (KNLA)", "ပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ (PDF)"]
+    },
+    {
+        "crisis_type": "Armed Conflict",
+        "location": "ကျိုက်ထိုမြို့နယ်, မွန်ပြည်နယ်, မြန်မာ",
+        "date": "၀၁.၀၆.၂၀၂၃",
+        "affect_civilian": "NA",
+        "affect_women": "NA",
+        "affect_children": "NA",
+        "civilian_properties_damage": "NA",
+        "civilian_forced_displacement": "NA",
+        "civilian_fatalities": "NA",
+        "armed_personnel_fatalities": 9,
+        "number_of_people_displaced": "NA",
+        "involved_parties": ["စစ်တပ်", "ကရင်အမျိုးသားလွတ်မြောက်ရေးတပ်မတော် (KNLA)", "ပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ (PDF)"]
+    }
+]

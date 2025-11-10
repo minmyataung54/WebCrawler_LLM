@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-03-15_8d6dcbb12851196c76cc50f180900de0",
+  "published_date": "15/03/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed conflict",
+      "location": " Kyeikdon Township, Karen State, Myanmar",
+      "date": "15/3/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 12,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military Regime, Revolutionary Forces"
+      ]
+    }
+  ]
+}

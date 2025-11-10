@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-12-18_6e4c15f58724596da7a9549621d2c987",
+  "published_date": "18/12/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Gwa Township, Rakhine State, Myanmar",
+      "date": "17/12/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Arakan Army (AA)"
+      ]
+    }
+  ]
+}

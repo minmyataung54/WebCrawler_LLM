@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-04-07_79f493b315b357ca161e6c575cb0ba99",
+  "published_date": "03/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Maing Long Township, Shan State, Myanmar",
+      "date": "07/04/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

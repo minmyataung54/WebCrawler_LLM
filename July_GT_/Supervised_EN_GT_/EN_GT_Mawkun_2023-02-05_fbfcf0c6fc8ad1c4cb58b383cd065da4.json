@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-02-05_fbfcf0c6fc8ad1c4cb58b383cd065da4",
+  "published_date": "06/02/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Pale Township, Sagaing Region, Myanmar",
+      "date": "05/02/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 2,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Galon Nak Group"
+      ]
+    }
+  ]
+}

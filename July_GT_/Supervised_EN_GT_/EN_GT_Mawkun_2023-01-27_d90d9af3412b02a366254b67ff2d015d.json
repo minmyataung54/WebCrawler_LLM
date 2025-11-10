@@ -1,0 +1,28 @@
+{
+  "article_id": "EA_Mawkun_2023-01-27_d90d9af3412b02a366254b67ff2d015d",
+  "published_date": "28/01/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Yesagyo Township, Magway Region, Myanmar",
+      "date": "28/01/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": 6,
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military",
+        "People's Defense Force (Myaing)",
+        "People's Defense Force (Yesagyo)",
+        "Lightning Guerrilla Force",
+        "Steel Eagle Guerrilla Force",
+        "Pakokku District Battalion No. (9)"
+      ]
+    }
+  ]
+}

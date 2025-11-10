@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-06-24_c857c7cbd7ccefe1f7ac8d7837bb91f6",
+  "published_date": "25/06/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "Salingyi Township, Sagaing Region, Myanmar",
+      "date": "25/06/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

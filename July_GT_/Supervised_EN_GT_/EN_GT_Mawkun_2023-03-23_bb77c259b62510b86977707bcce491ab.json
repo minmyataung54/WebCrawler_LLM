@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-03-23_bb77c259b62510b86977707bcce491ab",
+  "published_date": "24/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Tamu Township, Sagaing Region, Myanmar",
+      "date": "24/03/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "National Liberation Army (NLA)",
+        "Military"
+      ]
+    }
+  ]
+}

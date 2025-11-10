@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-05-10_6d19af14bb70dec848d23327c3465189",
+  "published_date": "10/05/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Madaya Township, Mandalay Region, Myanmar",
+      "date": "10/05/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 12,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military, Mandalay People Defense Force(MDY PDF)"
+      ]
+    }
+  ]
+}

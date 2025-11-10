@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "မတ္တရာမြို့နယ်, မန္တလေးတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "02/12/2024",
+  "affect_civilian": "NA",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "မန္တလေးပြည်သူ့ကာကွယ်ရေးတပ် (MDY-PDF)", "မန္တလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ (MDU-PDF)"]
+}

@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-06-10_a71690ec80f715695f657378c2a76be1",
+  "published_date": "11/06/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Waingmaw Township, Kachin State, Myanmar",
+      "date": "10/06/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Kachin Independence Army (KIA)",
+        "Military"
+      ]
+    }
+  ]
+}

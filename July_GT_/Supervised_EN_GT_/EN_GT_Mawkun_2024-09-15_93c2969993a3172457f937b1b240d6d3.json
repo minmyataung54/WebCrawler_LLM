@@ -1,0 +1,21 @@
+{
+  "article_id": "EA_Mawkun_2024-09-15_93c2969993a3172457f937b1b240d6d3",
+  "published_date": "16/09/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Natural disaster",
+      "location": "Taungoo Township, Bago Region, Myanmar",
+      "date": "15/09/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 2,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": []
+    }
+  ]
+}

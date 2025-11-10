@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-08-09_9bbe1399b033911ceedb426e4bcd9c6b",
+  "published_date": "10/08/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "fire",
+      "location": "Monywa Township, Sagaing Region, Myanmar",
+      "date": "10/08/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "military"
+      ]
+    }
+  ]
+}

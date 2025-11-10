@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-06-23_411a02fabf0504e9f0c2be290435d477",
+  "published_date": "24/06/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Indaw Township, Sagaing Region, Myanmar",
+      "date": "NA",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 17,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "article_id": "EA_Mawkun_2024-10-29_1ddab2dc1c5fb3100d22962df2066318",
+  "published_date": "28/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Kawkareik Township, Kayin State, Military",
+      "date": "NA",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 1,
+      "number_of_people_displaced": 0,
+      "involved_parties": []
+    }
+  ]
+}

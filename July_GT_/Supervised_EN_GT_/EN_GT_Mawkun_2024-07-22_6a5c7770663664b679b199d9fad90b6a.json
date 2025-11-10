@@ -1,0 +1,41 @@
+{
+  "article_id": "EA_Mawkun_2024-07-22_6a5c7770663664b679b199d9fad90b6a",
+  "published_date": "23/07/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Lashio Township, Shan State, Myanmar",
+      "date": "22/07/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Myanmar National Democratic Alliance Army (MNDAA)"
+      ]
+    },
+    {
+      "event_id": "e2",
+      "crisis_type": "Airstrike",
+      "location": "Laukkai Township, Shan State, Myanmar",
+      "date": "23/07/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

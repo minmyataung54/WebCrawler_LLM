@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-08-29_0ac2dca96bd14d54481a92c9b4e387c6",
+  "published_date": "30/08/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Rathedaung Township, Rakhine State, Myanmar",
+      "date": "28/08/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

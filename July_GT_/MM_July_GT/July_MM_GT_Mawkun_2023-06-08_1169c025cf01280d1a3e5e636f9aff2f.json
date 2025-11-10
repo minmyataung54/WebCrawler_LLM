@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "ဆားလင်းကြီးမြို့နယ်, စစ်ကိုင်းတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၀၉.၀၆.၂၀၂၃",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["ဒေသတော်လှန်ရေးတပ်ဖွဲ့ ", "စစ်တပ်"]
+}

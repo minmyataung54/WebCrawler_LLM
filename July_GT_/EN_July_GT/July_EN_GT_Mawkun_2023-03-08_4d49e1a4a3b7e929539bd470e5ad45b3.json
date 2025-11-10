@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Attack",
+  "location": "Pauk Township, Magway Region, Myanmar",
+  "date": "09/03/2023",
+  "affect_civilian": "TRUE",
+  "affect_women": "TRUE",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": "3",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["Military"]
+}

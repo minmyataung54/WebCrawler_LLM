@@ -1,0 +1,23 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "မုံရွာမြို့နယ်, စစ်ကိုင်းတိုင်းဒေသကြီး, Myanmar",
+  "date": "၁၁.၀၆.၂၀၂၄",
+  "affect_civilian": "NA",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "20",
+  "number_of_people_displaced": "NA",
+  "involved_parties": [
+    "စစ်တပ်",
+    "ဒေသခံကာကွယ်ရေးပူးပေါင်းတပ်များ",
+    "ULF စစ်ကြောင်းမှူး",
+    "ချိုမိုင်မိုင်",
+    "နဂါးညီနောင်အထူးတပ်ဖွဲ့",
+    "ချင်းတွင်းတိုက်ဂါး",
+    "B2 Fighter",
+    "KLG PDF"
+  ]
+}

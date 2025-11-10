@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-09-13_cf9a01979f13571f690d4b73108ac9f2",
+  "published_date": "13/09/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Natural disaster",
+      "location": "Kayah State, Myanmar",
+      "date": "11/09/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 18,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "KNDF"
+      ]
+    }
+  ]
+}

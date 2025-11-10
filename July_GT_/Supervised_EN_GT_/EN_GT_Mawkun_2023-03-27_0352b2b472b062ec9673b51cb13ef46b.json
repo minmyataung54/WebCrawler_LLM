@@ -1,0 +1,21 @@
+{
+  "article_id": "EA_Mawkun_2023-03-27_0352b2b472b062ec9673b51cb13ef46b",
+  "published_date": "27/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Bombing",
+      "location": "Tamwe Township, Yangon Region, Myanmar",
+      "date": "28/03/2023",
+      "affected_civilian": "NA",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": []
+    }
+  ]
+}

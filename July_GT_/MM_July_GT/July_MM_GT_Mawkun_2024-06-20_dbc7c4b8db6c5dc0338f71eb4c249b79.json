@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Airstrike",
+  "location": "ဝိုင်းမော်မြို့နယ်, ကချင်ပြည်နယ်, မြန်မာ",
+  "date": "၂၀.၀၆.၂၀၂၄",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": "၁",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်"]
+}

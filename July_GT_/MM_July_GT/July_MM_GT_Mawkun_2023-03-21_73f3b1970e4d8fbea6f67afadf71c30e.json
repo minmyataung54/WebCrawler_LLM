@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Attack",
+  "location": "အောင်မြေသာစံမြို့နယ်, မန္တလေးတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၂၂.၀၃.၂၀၂၃",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "1",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "အမည်မသိလက်နက်ကိုင်အဖွဲ့"]
+}

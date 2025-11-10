@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Natural Disaster",
+  "location": "ကွမ်းခြံကုန်းမြို့နယ်, ရန်ကုန်တိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၂၆.၀၇.၂၀၂၄",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "300",
+  "involved_parties": "NA"
+}

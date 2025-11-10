@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-29_7d2f4e2335dd8c1b0570f10ba686254d",
+  "published_date": "30/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Htantlang Township, Chin State, Myanmar",
+      "date": "30/03/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 10,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

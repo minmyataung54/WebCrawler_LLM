@@ -1,0 +1,30 @@
+{
+  "article_id": "EA_Mawkun_2024-06-11_1d77ba0df3d66d7c49181358b0e0914b",
+  "published_date": "12/06/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Monywa Township, Sagaing Region, Myanmar",
+      "date": "11/06/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 20,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Local Defense Forces",
+        "ULF",
+        "Chomaimai",
+        "Naga Nyi Naung Special Task Force",
+        "Chindwin Tiger",
+        "B2 Fighter",
+        "KLG PDF"
+      ]
+    }
+  ]
+}

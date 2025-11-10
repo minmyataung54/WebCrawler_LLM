@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2024-02-09_6cabe182cb2df42ac1ed4b91bf3dc78c",
+  "published_date": "09/02/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Yezagyo Township, Magway Region, Myanmar",
+      "date": "09/02/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 2,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Pakokku township People's Defence Force 2",
+        "Military",
+        "Pyu Saw Htee"
+      ]
+    }
+  ]
+}

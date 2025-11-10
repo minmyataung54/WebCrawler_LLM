@@ -1,0 +1,26 @@
+{
+  "source": "EN_July_GT/EN_GT_Mawkun_2024-09-08_ea72d9b24b70138d84ba3da12e8097f2.docx",
+  "paragraphs": [
+    "[",
+    "{",
+    "\"Crisis type\": \"airstrike\",",
+    "\"Location\": [\"Rakhine State, Thandwe Township, Myanmar\"],",
+    "\"Date\": \"07/09/2024\",",
+    "\"Affected_Civilian\": \"TRUE\",",
+    "\"Affected_Women\": \"NA\",",
+    "\"Affected_Children\": \"NA\",",
+    "\"Civilian_Properties_Damage\": \"TRUE\",",
+    "\"Civilian_Forced_Displacement\": \"NA\",",
+    "\"Civililan_Fatalities\": \"1\",",
+    "\"Armed_Personnel_Fatalities\": \"NA\",",
+    "\"Number_of_People_Displaced\": \"NA\",",
+    "\"Involved_Parties\": [“Military”]",
+    "}",
+    "]"
+  ],
+  "tables": [],
+  "metadata": {
+    "paragraph_count": 16,
+    "word_count": 33
+  }
+}

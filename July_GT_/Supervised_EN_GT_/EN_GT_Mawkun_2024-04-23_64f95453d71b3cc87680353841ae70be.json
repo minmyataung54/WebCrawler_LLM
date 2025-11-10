@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-04-23_64f95453d71b3cc87680353841ae70be",
+  "published_date": "24/04/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "‌Airstrike",
+      "location": " Waw Ray, Myanmar",
+      "date": "23/04/2024",
+      "affected_civilian": "FALSE",
+      "affected_women": "FALSE",
+      "affected_children": "FALSE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

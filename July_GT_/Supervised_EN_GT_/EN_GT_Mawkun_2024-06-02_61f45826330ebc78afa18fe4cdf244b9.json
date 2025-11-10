@@ -1,0 +1,41 @@
+{
+  "article_id": "EA_Mawkun_2024-06-02_61f45826330ebc78afa18fe4cdf244b9",
+  "published_date": "01/06/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "Kawkareik Township, Karen State, Myanmar",
+      "date": "31/5/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    },
+    {
+      "event_id": "e2",
+      "crisis_type": "Armed conflict",
+      "location": "Kawkareik Township, Karen State, Myanmar",
+      "date": "NA",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Revolutionary Forces"
+      ]
+    }
+  ]
+}

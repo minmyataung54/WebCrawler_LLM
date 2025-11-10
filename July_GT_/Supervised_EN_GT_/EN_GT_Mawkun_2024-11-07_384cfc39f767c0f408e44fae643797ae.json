@@ -1,0 +1,38 @@
+{
+  "article_id": "EA_Mawkun_2024-11-07_384cfc39f767c0f408e44fae643797ae",
+  "published_date": "05/11/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Naungcho township, Shan State, Myanmar",
+      "date": "03/11/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": []
+    },
+    {
+      "event_id": "e2",
+      "crisis_type": "Airstrike",
+      "location": "Lashio township, Shan State, Myanmar",
+      "date": "05/11/2024 around 1:00",
+      "affected_civilian": "FALSE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

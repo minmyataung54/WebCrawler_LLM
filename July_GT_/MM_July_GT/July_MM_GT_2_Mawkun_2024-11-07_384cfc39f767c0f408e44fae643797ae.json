@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Airstrike",
+  "location": "လားရှိုးမြို့နယ်, ရှမ်းပြည်နယ်, Myanmar",
+  "date": "၅/၁၁/၂၀၂၄ နံနက် ၁:၀၀ ဝန်းကျင်",
+  "affect_civilian": "FALSE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "FALSE",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်"]
+}

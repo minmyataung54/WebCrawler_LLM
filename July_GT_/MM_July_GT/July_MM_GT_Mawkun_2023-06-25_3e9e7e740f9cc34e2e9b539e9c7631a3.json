@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "မင်းတပ်မြို့နယ်, ချင်းပြည်နယ်, မြန်မာ",
+  "date": "၂၆.၀၆.၂၀၂၃",
+  "affect_civilian": "FALSE",
+  "affect_women": "FALSE",
+  "affect_children": "FALSE",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["ချင်းကာကွယ်ရေးတပ်ဖွဲ့ (CDF)", "စစ်တပ်"]
+}

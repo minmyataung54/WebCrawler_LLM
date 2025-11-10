@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2024-02-08_16aa87af7c1768af9782a63f3963f34e",
+  "published_date": "08/02/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Minkin Township, Sagaing Region, Myanmar",
+      "date": "07/02/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Regional Revolutionary Combined Forces",
+        "Military",
+        "SRF"
+      ]
+    }
+  ]
+}

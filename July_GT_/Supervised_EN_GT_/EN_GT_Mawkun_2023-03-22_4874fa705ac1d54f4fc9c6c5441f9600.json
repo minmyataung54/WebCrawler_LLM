@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-22_4874fa705ac1d54f4fc9c6c5441f9600",
+  "published_date": "23/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Bombing",
+      "location": "Kyimyindaing Township, Yangon Region, Myanmar",
+      "date": "23/03/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

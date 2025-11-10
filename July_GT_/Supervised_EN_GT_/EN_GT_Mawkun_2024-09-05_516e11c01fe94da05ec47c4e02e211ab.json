@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-09-05_516e11c01fe94da05ec47c4e02e211ab",
+  "published_date": "06/09/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Namhkam Township, Shan State, Myanmar",
+      "date": "06/09/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 11,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

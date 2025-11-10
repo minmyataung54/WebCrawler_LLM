@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-03-15_ad2a0ea7950f8aaebb3765646dad4b37",
+  "published_date": "15/03/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": " Kani Township, Sagaing Region, Myanmar",
+      "date": "NA",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

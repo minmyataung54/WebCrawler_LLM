@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-06-30_22477a3f4b0e84b01f1c51feae71c6e2",
+  "published_date": "01/07/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Madaya Township, Mandalay Region, Myanmar",
+      "date": "29/06/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 1,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Security and Counter-Terrorism Force (SSTF)"
+      ]
+    }
+  ]
+}

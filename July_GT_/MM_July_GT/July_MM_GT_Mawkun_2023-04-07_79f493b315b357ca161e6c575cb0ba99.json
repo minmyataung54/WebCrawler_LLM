@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "မိုင်းလုံမြို့နယ်, ရှမ်းပြည်နယ်, မြန်မာ",
+  "date": "၀၇.၀၄.၂၀၂၃",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": 1,
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["အမည်မသိလက်နက်ကိုင်အဖွဲ့", "စစ်တပ်"]
+}

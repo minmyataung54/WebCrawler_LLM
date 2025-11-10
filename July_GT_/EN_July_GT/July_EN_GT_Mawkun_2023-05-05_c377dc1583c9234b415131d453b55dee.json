@@ -1,0 +1,37 @@
+{
+    "article_id":"EA_Mawkun_2024-05-05_c377dc1583c9234b415131d453b55dee ",
+    "published_date":"06/05/2023",
+    "events":[
+
+        {
+            "event_id": "e1",
+            "crisis_type": "Fire",
+            "location": "Thakaung Township, Mandalay Region, Myanmar",
+            "date": "05/05/2023",
+            "affect_civilian": "NA",
+            "affect_women": "NA",
+            "affect_children": "NA",
+            "civilian_properties_damage": "TRUE",
+            "civilian_forced_displacement": "NA",
+            "civilian_fatalities": "NA",
+            "armed_personnel_fatalities": "NA",
+            "number_of_people_displaced": "NA",
+            "involved_parties": ["Military"]
+        },
+        {
+            "event_id": "e2",
+            "crisis_type": "Armed Conflict",
+            "location": "Thakaung Township, Mandalay Region, Myanmar",
+            "date": "06/05/2023",
+            "affect_civilian": "NA",
+            "affect_women": "NA",
+            "affect_children": "NA",
+            "civilian_properties_damage": "NA",
+            "civilian_forced_displacement": "NA",
+            "civilian_fatalities": "NA",
+            "armed_personnel_fatalities": 11,
+            "number_of_people_displaced": "NA",
+            "involved_parties": ["Ta Kaung People's Defense Force (PDF)", "Military"]
+        }
+    ]
+}

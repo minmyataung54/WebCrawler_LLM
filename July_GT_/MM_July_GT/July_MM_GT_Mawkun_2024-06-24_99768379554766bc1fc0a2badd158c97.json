@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "ကျောက်မဲမြို့နယ်, ရှမ်းပြည်နယ်, မြန်မာ",
+  "date": "၂၅.၀၆.၂၀၂၄",
+  "affect_civilian": "TRUE",
+  "affect_women": "TRUE",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": "2",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "တအောင်းတပ်ဖွဲ့ (TNLA)"]
+}

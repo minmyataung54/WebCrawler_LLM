@@ -1,0 +1,21 @@
+{
+  "article_id": "EA_Mawkun_2024-09-04_244d6e512542b08017092d22f73ac3c6",
+  "published_date": "05/09/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Hsipaw Township, Shan State, Myanmar",
+      "date": "05/09/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-10-06_242c255f2db7c52f9737b135040606b7",
+  "published_date": "08/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": " D Pal yin Township, Sagaing Region, Myanmar",
+      "date": "05/10/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

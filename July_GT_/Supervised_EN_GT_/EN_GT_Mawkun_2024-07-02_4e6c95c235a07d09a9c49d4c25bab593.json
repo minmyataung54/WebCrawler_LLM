@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-07-02_4e6c95c235a07d09a9c49d4c25bab593",
+  "published_date": "03/07/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Lashio Township, Shan State, Myanmar",
+      "date": "02/07/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 6,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "MNDAA"
+      ]
+    }
+  ]
+}

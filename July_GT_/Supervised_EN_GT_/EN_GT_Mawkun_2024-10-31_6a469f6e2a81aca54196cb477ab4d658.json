@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-10-31_6a469f6e2a81aca54196cb477ab4d658",
+  "published_date": "31/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Taung koke Township, Rakhine State, Myanmar",
+      "date": "30/10/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 5,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

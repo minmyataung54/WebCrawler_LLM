@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-02-14_254caf737640d64b00ddae688a758dca",
+  "published_date": "15/02/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed conflict",
+      "location": "Shardaw Township, KayaState, Myanmar",
+      "date": "15/2/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 160,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military, KNDF, KA, Loikaw PDF"
+      ]
+    }
+  ]
+}

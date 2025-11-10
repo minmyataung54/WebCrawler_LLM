@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-31_3bfeb2d7b2acaa9a795be0a757c85bb3",
+  "published_date": "01/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Salingyi Township, Sagaing Region, Myanmar",
+      "date": "01/04/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

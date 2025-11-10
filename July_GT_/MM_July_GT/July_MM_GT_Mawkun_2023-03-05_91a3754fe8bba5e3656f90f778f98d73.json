@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Attack",
+  "location": "ခင်ဦးမြို့နယ်, စစ်ကိုင်းတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၀၆.၀၃.၂၀၂၃",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "TRUE",
+  "civilian_properties_damage": "FALSE",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": "2",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်"]
+}

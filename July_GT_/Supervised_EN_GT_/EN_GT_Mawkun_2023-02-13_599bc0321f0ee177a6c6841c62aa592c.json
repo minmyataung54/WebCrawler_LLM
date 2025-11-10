@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2023-02-13_599bc0321f0ee177a6c6841c62aa592c",
+  "published_date": "14/02/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed conflict",
+      "location": "Kani township, Sagaing Region, Myanmar",
+      "date": "14/02/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 5,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "KLG PDF",
+        "Pyu Saw Htee"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-12-23_8b3f288c05d26b5e05186c9449a8f4c4",
+  "published_date": "24/12/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Bhamaw Township, Kachin State, Myanmar",
+      "date": "24/12/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Kachin Independence Army (KIA)"
+      ]
+    }
+  ]
+}

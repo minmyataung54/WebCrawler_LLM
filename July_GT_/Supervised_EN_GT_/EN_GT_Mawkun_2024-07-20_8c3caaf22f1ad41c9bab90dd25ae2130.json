@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-07-20_8c3caaf22f1ad41c9bab90dd25ae2130",
+  "published_date": "21/07/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Kyaikmaraw Township, Mon State, Myanmar",
+      "date": "19/07/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 20,
+      "armed_personnel_fatalities": 3,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Karen National Union (KNU) Lion Battalion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-06-21_38f3753f34f889e15c356f293b3e4d0f",
+  "published_date": "22/06/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "AirStrike",
+      "location": "Thandwe Township, Rakhine State, Myanmar",
+      "date": "21/06/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Arakan Army (AA)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-06-20_dbc7c4b8db6c5dc0338f71eb4c249b79",
+  "published_date": "21/06/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Waingmaw Township, Kachin State, Myanmar",
+      "date": "20/06/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

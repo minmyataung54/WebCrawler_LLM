@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Bombing",
+  "location": "အမရပူရမြို့နယ်, မန္တလေးတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၂၂.၀၃.၂၀၂၃",
+  "affect_civilian": "FALSE",
+  "affect_women": "FALSE",
+  "affect_children": "FALSE",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "1",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "အမည်မသိလက်နက်ကိုင်အဖွဲ့"]
+}

@@ -1,0 +1,44 @@
+{
+  "article_id": "EA_Mawkun_2023-06-01_242ddd88c177caaeff01e463f736d34a",
+  "published_date": "02/06/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Kyar Inn Seikkyi Township, Kayin State, Myanmar",
+      "date": "02/06/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "FALSE",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Karen National Liberation Army (KNLA)",
+        "People's Defense Force (PDF)"
+      ]
+    },
+    {
+      "event_id": "e2",
+      "crisis_type": "Armed Conflict",
+      "location": "Kyaikto Township, Mon State, Myanmar",
+      "date": "01/06/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 9,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Karen National Liberation Army (KNLA)",
+        "People's Defense Force (PDF)"
+      ]
+    }
+  ]
+}

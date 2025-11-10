@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Bombing",
+  "location": "ကော့ကရိတ်မြို့နယ်, ကရင်ပြည်နယ်, မြန်မာ",
+  "date": "၀၅.၀၇.၂၀၂၄",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "TRUE",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "ကရင်အမျိုးသားအစည်းအရုံး (KNU)"]
+}

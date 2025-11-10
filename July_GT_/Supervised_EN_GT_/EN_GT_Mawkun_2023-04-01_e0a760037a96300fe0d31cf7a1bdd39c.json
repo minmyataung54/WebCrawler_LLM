@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-04-01_e0a760037a96300fe0d31cf7a1bdd39c",
+  "published_date": "02/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Minkin Township, Sagaing Region, Myanmar",
+      "date": "01/04/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Kalay People's Defense Force (PDF)",
+        "Military"
+      ]
+    }
+  ]
+}

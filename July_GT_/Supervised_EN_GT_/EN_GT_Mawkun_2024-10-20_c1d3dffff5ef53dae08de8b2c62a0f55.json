@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-10-20_c1d3dffff5ef53dae08de8b2c62a0f55",
+  "published_date": "20/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Butalin township, Sagaing Region,  Myanmar",
+      "date": "NA",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 6,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

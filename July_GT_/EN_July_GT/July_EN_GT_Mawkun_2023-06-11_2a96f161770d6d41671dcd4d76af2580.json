@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "Minkin Township, Sagaing Region, Myanmar",
+  "date": "09/06/2023",
+  "affect_civilian": "NA",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": 3,
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["Students Revolutionary Force (SRF)", "Pyusawhtee"]
+}

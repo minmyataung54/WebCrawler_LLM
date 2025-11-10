@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "မတ္တရာမြို့နယ်, မန္တလေးတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၂၉.၀၆.၂၀၂၄",
+  "affect_civilian": "FALSE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "FALSE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "1",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "လုံခြုံရေးနှင့် အကြမ်းဖက်နှိမ်နှင်းရေးတပ်ဖွဲ့ကြီး (SSTF)"]
+}

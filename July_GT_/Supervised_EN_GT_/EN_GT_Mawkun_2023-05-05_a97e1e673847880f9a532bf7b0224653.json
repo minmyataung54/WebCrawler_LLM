@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-05-05_a97e1e673847880f9a532bf7b0224653",
+  "published_date": "05/05/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Yinmabin Township, Sagaing Region, Myanmar",
+      "date": "06/05/2023",
+      "affected_civilian": "FALSE",
+      "affected_women": "FALSE",
+      "affected_children": "FALSE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

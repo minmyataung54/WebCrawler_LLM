@@ -1,0 +1,21 @@
+{
+  "article_id": "EA_Mawkun_2024-07-29_32f0178410a72013121040537344ddfa",
+  "published_date": "30/07/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Natural disaster",
+      "location": "Bago Township, Bago Region, Myanmar",
+      "date": "30/07/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": []
+    }
+  ]
+}

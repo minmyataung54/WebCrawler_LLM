@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-08-09_ade8060cd1d597bf5efb0aad0892fda6",
+  "published_date": "10/08/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Mrauk-U Township, Rakhine Region, Myanmar",
+      "date": "10/08/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 6,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

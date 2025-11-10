@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2023-04-07_c8afbbc394e8985999a1e25338eb148c",
+  "published_date": "08/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Sagaing Township, Sagaing Region, Myanmar",
+      "date": "08/04/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Bo Kyar G Regional Defence Force",
+        "Military",
+        "Ye Ye Touk Group"
+      ]
+    }
+  ]
+}

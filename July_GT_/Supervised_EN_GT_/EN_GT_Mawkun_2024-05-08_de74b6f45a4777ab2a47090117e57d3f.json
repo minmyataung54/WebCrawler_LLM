@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-05-08_de74b6f45a4777ab2a47090117e57d3f",
+  "published_date": "08/05/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "‌Armed conflict",
+      "location": "Thayetchaung Township, Taninthayi Region, Myanmar",
+      "date": "06/05/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military, KNLA, PDF"
+      ]
+    }
+  ]
+}

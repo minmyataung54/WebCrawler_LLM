@@ -1,0 +1,28 @@
+{
+  "article_id": "EA_Mawkun_2023-02-03_388b75aca47b5a346244133e6b9515e3",
+  "published_date": "04/02/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Myingmu Township, Sagaing Region, Myanmar",
+      "date": "04/02/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 15,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "People's Defense Force (PDF)",
+        "Kyaukse District Battalion No. 1, Red Dragon Battalion",
+        "Battalion (19), Shwebo District",
+        "Battalion (2), Sagaing District",
+        "Company (2), GTR (Monywa)"
+      ]
+    }
+  ]
+}

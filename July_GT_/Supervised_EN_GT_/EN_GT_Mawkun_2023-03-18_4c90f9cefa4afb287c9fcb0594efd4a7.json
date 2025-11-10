@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-18_4c90f9cefa4afb287c9fcb0594efd4a7",
+  "published_date": "19/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "Yesagyo Township, Magway Region, Myanmar",
+      "date": "19/03/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

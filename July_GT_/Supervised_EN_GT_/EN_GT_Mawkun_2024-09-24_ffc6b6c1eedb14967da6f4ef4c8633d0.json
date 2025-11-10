@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-09-24_ffc6b6c1eedb14967da6f4ef4c8633d0",
+  "published_date": "25/09/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Taungup Township, Rakhine State, Myanmar",
+      "date": "25/09/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

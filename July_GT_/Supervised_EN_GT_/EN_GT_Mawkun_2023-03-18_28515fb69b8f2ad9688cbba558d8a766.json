@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-18_28515fb69b8f2ad9688cbba558d8a766",
+  "published_date": "19/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Madaya Township, Mandalay Region, Myanmar",
+      "date": "18/03/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

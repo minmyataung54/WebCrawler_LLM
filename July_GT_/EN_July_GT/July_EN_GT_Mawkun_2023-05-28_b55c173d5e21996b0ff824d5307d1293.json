@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "Hpapun District, Kayin State, Myanmar",
+  "date": "26/05/2023",
+  "affect_civilian": "NA",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "NA",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": 5,
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["Karen National Liberation Army (KNLA)", "Border Guard Force (BGF)"]
+}

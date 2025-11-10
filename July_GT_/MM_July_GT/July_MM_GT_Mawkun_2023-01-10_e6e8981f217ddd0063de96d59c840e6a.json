@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "ပုလဲမြို့နယ်, စစ်ကိုင်းတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၁၁.၀၁.၂၀၂၃",
+  "affect_civilian": "FALSE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "1",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်", "ပျူစောထီး", "ဂဠုန်နက်အဖွဲ့"]
+}

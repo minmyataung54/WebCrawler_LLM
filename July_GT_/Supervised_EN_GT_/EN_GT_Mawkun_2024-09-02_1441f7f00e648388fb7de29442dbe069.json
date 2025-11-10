@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-09-02_1441f7f00e648388fb7de29442dbe069",
+  "published_date": "02/09/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Sittwe Township, Rakhine State, Myanmar",
+      "date": "02/09/2024",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

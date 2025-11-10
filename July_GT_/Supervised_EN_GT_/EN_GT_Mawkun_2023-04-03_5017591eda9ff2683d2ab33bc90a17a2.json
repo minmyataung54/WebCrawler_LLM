@@ -1,0 +1,27 @@
+{
+  "article_id": "EA_Mawkun_2023-04-03_5017591eda9ff2683d2ab33bc90a17a2",
+  "published_date": "03/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Yesagyo Township, Magway Region, Myanmar",
+      "date": "03/04/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": 7,
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Yesagyo People's Defence Force (PDF)",
+        "Military",
+        "Salingyi Special Tesk Force (SSTF)",
+        "Myaing People's Defence Force",
+        "Myanmar Royal Dragon Army(MRDA)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+
+ {
+    "crisis_type": "Airstrike",
+    "location": "နောင်ချိုမြို့နယ် ရှမ်းပြည်နယ် မြန်မာ ",
+    "date": "၃/၁၁/၂၀၂၄",
+    "affect_civilian": "NA",
+    "affect_women": "NA",
+    "affect_children": "NA",
+    "civilian_properties_damage": "TRUE",
+    "civilian_forced_displacement": "NA",
+    "civilian_fatalities": "NA",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": ["စစ်ကောင်စီ"]
+  },
+  {
+    "crisis_type": "Airstrike",
+    "location": "လားရှိုးမြို့နယ်, ရှမ်းပြည်နယ်, Myanmar",
+    "date": "၅/၁၁/၂၀၂၄",
+    "affect_civilian": "FALSE",
+    "affect_women": "NA",
+    "affect_children": "NA",
+    "civilian_properties_damage": "TRUE",
+    "civilian_forced_displacement": "NA",
+    "civilian_fatalities": "FALSE",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": ["စစ်တပ်"]
+  }
+]

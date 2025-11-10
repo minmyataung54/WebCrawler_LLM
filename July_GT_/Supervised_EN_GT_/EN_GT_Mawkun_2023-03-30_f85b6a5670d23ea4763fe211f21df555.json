@@ -1,0 +1,26 @@
+{
+  "article_id": "EA_Mawkun_2023-03-30_f85b6a5670d23ea4763fe211f21df555",
+  "published_date": "31/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Yesagyo Township, Magway Region, Myanmar",
+      "date": "31/03/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 5,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Yesagyo People's Defence Force (PDF)",
+        "Military",
+        "Shwe Lel Kyun LPDF",
+        "Anya Thar Guerrilla Force"
+      ]
+    }
+  ]
+}

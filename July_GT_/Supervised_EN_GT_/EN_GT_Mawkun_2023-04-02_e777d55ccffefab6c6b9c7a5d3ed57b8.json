@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-04-02_e777d55ccffefab6c6b9c7a5d3ed57b8",
+  "published_date": "03/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "Pale Township, Sagaing Region, Myanmar",
+      "date": "02/04/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

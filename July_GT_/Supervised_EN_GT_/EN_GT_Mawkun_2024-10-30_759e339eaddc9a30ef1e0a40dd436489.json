@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-10-30_759e339eaddc9a30ef1e0a40dd436489",
+  "published_date": "30/10/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Ann Township, Rakhine State, Military",
+      "date": "NA",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Arakan Army(AA)"
+      ]
+    }
+  ]
+}

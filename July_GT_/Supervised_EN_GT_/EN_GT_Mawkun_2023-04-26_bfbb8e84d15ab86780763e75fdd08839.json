@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-04-26_bfbb8e84d15ab86780763e75fdd08839",
+  "published_date": "27/04/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "KhinU Township, Sagaing Region, Myanmar",
+      "date": "27/04/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

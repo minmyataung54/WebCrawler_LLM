@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-07-19_1df53f9234af1d748b32ccae38789db6",
+  "published_date": "20/07/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Kyaikmaraw Township, Mon State, Myanmar",
+      "date": "19/07/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "FANALSE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 13,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

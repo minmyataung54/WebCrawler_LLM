@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-09-17_28d5c7f7118c4408470ac41a9967cea2",
+  "published_date": "18/09/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Ponnagyun Township, Rakhine State, Myanmar",
+      "date": "17/09/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

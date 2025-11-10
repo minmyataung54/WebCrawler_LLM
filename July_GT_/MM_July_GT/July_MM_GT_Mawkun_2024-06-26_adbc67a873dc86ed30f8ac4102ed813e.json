@@ -1,0 +1,44 @@
+[
+  {
+    "crisis_type": "Airstrike",
+    "location": "မိုးကုတ်မြို့နယ်, မန္တလေးတိုင်းဒေသကြီး, မြန်မာ",
+    "date": "၂၆.၀၆.၂၀၂၄",
+    "affect_civilian": "TRUE",
+    "affect_women": "TRUE",
+    "affect_children": "NA",
+    "civilian_properties_damage": "TRUE",
+    "civilian_forced_displacement": "NA",
+    "civilian_fatalities": "၁",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": ["စစ်တပ်"]
+  },
+  {
+    "crisis_type": "Armed Conflict",
+    "location": "မိုးကုတ်မြို့နယ်, မန္တလေးတိုင်းဒေသကြီး, မြန်မာ",
+    "date": "၂၆.၀၆.၂၀၂၄",
+    "affect_civilian": "TRUE",
+    "affect_women": "NA",
+    "affect_children": "NA",
+    "civilian_properties_damage": "TRUE",
+    "civilian_forced_displacement": "NA",
+    "civilian_fatalities": "NA",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": ["စစ်တပ်", "တအောင်းအမျိုးသားလွတ်မြောက်ရေးတပ်မတော် (TNLA)"]
+  },
+  {
+    "crisis_type": "Fire",
+    "location": "မိုးကုတ်မြို့နယ်, မန္တလေးတိုင်းဒေသကြီး, မြန်မာ",
+    "date": "၂၆.၀၆.၂၀၂၄",
+    "affect_civilian": "NA",
+    "affect_women": "NA",
+    "affect_children": "NA",
+    "civilian_properties_damage": "TRUE",
+    "civilian_forced_displacement": "NA",
+    "civilian_fatalities": "NA",
+    "armed_personnel_fatalities": "NA",
+    "number_of_people_displaced": "NA",
+    "involved_parties": []
+  }
+]

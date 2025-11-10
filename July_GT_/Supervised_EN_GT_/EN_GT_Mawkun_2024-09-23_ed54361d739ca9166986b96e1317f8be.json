@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-09-23_ed54361d739ca9166986b96e1317f8be",
+  "published_date": "24/09/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": " Budalin Township, Sagaing Region, Myanmar",
+      "date": "22/09/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 2,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military, People's Defence Force (PDF)",
+        "Pyu Saw Htee"
+      ]
+    }
+  ]
+}

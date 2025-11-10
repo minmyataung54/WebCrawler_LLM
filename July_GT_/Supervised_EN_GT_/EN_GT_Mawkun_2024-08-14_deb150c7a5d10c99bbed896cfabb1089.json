@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-08-14_deb150c7a5d10c99bbed896cfabb1089",
+  "published_date": "15/08/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Kawkareik Township, Karen State, Myanmar",
+      "date": "13/08/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

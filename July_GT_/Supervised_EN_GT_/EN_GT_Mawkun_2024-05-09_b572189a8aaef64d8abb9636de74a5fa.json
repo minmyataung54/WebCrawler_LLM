@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-05-09_b572189a8aaef64d8abb9636de74a5fa",
+  "published_date": "09/05/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Myaing Township, Magway Region, Myanmar",
+      "date": "8/05/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 2,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Black Cobra Force"
+      ]
+    }
+  ]
+}

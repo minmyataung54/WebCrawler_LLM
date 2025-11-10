@@ -1,0 +1,27 @@
+{
+  "source": "MM_July_GT/GT_JSON_Format.docx",
+  "paragraphs": [
+    "Ground-Truth JSON Format",
+    "[",
+    "{",
+    "\"Crisis type\": (\"armed conflict, airstrike, bombing, attack, fire, natural disaster\"),",
+    "\"Location\": (\"Sagaing region, butalin township, country\"),",
+    "\"Date\": \"(Date)\",",
+    "\"Affected_Civilian\": \"True/False/(N/A)\",",
+    "\"Affected_Women\": \"True/False/(N/A)\",",
+    "\"Affected_Children\": \"True/False/(N/A)\",",
+    "\"Civilian_Properties_Damage\": \"True/False/(N/A)\",",
+    "\"Civilian_Forced_Displacement\": \"True/False/(N/A)\",",
+    "\"Civililan_Fatalities\": \"take integer only if it is explicitly mentioned (if not mentioned, N/A)\",",
+    "\"Armed_Personnel_Fatalities\": \"take integer only if it is explicitly mentioned\",",
+    "\"Number_of_People_Displaced\": \"take integer only if it is explicitly mentioned\",",
+    "\"Involved_Parties\": [“military, KNU”]",
+    "}",
+    "]"
+  ],
+  "tables": [],
+  "metadata": {
+    "paragraph_count": 17,
+    "word_count": 69
+  }
+}

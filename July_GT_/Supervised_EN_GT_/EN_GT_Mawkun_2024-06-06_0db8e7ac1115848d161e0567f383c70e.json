@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-06-06_0db8e7ac1115848d161e0567f383c70e",
+  "published_date": "06/06/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Mingin Township, Sagaing Region, Myanmar",
+      "date": "3/6/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 28,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

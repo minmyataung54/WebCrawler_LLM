@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2024-06-30_c4d1c114d116ab8f9b516685406d3c1e",
+  "published_date": "01/07/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Chaung-U Township, Sagaing Region, Myanmar",
+      "date": "30/06/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military",
+        "Local Defense Forces"
+      ]
+    }
+  ]
+}

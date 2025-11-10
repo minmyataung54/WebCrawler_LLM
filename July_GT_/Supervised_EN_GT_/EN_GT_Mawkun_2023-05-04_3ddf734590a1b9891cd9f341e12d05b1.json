@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-05-04_3ddf734590a1b9891cd9f341e12d05b1",
+  "published_date": "05/05/2023",
+  "events": [
+    {
+      "event_id": "NA",
+      "crisis_type": "Fire",
+      "location": "Ayadaw Township, Sagaing Region, Myanmar",
+      "date": "05/05/2023",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

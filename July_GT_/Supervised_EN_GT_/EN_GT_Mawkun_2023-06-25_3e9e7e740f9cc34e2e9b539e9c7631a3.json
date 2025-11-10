@@ -1,0 +1,24 @@
+{
+  "article_id": "EA_Mawkun_2023-06-25_3e9e7e740f9cc34e2e9b539e9c7631a3",
+  "published_date": "26/06/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Mindat Township, Chin Region, Myanmar",
+      "date": "26/06/2023",
+      "affected_civilian": "FALSE",
+      "affected_women": "FALSE",
+      "affected_children": "FALSE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Chinland Defense Force (CDF)",
+        "Military"
+      ]
+    }
+  ]
+}

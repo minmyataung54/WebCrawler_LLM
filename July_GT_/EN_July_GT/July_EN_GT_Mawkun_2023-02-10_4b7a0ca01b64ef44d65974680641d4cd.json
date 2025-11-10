@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "Pakokku Township, Magway Region, Myanmar",
+  "date": "11/02/2023",
+  "affect_civilian": "FALSE",
+  "affect_women": "FALSE",
+  "affect_children": "FALSE",
+  "civilian_properties_damage": "FALSE",
+  "civilian_forced_displacement": "TRUE",
+  "civilian_fatalities": "NA",
+  "armed_personnel_fatalities": "5",
+  "number_of_people_displaced": "over 1000",
+  "involved_parties": ["Military", "People's Defense Force (PDF)"]
+}

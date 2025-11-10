@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "Myingmu Township, Sagaing Region, Myanmar",
+  "date": "04/02/2023",
+  "affect_civilian": "TRUE",
+  "affect_women": "NA",
+  "affect_children": "NA",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "1",
+  "armed_personnel_fatalities": "15",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["Military", "People's Defense Force (PDF)"]
+}

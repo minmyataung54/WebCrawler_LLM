@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-11-02_3328cd70e086ebe109c432bd6b672498",
+  "published_date": "01/11/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "Ann Township, Rakhine State, Myanmar",
+      "date": "31/10/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

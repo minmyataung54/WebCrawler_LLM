@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2023-02-03_388b75aca47b5a346244133e6b9515e3",
+  "published_date": "02/02/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Kamma Township, Magway Region, Myanmar",
+      "date": "NA",
+      "affected_civilian": "NA",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": 2,
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Pyu saw htee",
+        "Myaing PDF",
+        "Military"
+      ]
+    }
+  ]
+}

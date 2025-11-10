@@ -1,0 +1,25 @@
+{
+  "article_id": "EA_Mawkun_2023-01-10_e6e8981f217ddd0063de96d59c840e6a",
+  "published_date": "11/01/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Armed Conflict",
+      "location": "Pearl Township, Sagaing Region, Myanmar",
+      "date": "11/01/2023",
+      "affected_civilian": "FALSE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": "NA",
+      "armed_personnel_fatalities": 1,
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military",
+        "Pyu saw htee",
+        "Galon Nak Group"
+      ]
+    }
+  ]
+}

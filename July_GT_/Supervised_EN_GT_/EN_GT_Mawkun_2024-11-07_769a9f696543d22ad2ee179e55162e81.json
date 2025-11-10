@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2024-11-07_769a9f696543d22ad2ee179e55162e81",
+  "published_date": "06/11/2024",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Airstrike",
+      "location": "Pale Township, Sagaing Region, Myanmar",
+      "date": "5/11/2024",
+      "affected_civilian": "TRUE",
+      "affected_women": "TRUE",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "TRUE",
+      "civilian_fatalities": 4,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

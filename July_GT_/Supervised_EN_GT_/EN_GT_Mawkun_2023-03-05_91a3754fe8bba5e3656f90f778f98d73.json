@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-03-05_91a3754fe8bba5e3656f90f778f98d73",
+  "published_date": "06/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Khinu Township, Sagaing Region, Myanmar",
+      "date": "06/03/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "TRUE",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 2,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

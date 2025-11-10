@@ -1,0 +1,21 @@
+{
+  "article_id": "EA_Mawkun_2023-03-21_73f3b1970e4d8fbea6f67afadf71c30e",
+  "published_date": "22/03/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Attack",
+      "location": "Mandalay Region, Myanmar",
+      "date": "22/03/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "NA",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 1,
+      "armed_personnel_fatalities": 0,
+      "number_of_people_displaced": 0,
+      "involved_parties": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "article_id": "EA_Mawkun_2023-05-17_9207f3d03141089c7cd1ff946dff7eeb",
+  "published_date": "18/05/2023",
+  "events": [
+    {
+      "event_id": "e1",
+      "crisis_type": "Fire",
+      "location": "Shwebo Township, Sagaing Region, Myanmar",
+      "date": "18/05/2023",
+      "affected_civilian": "TRUE",
+      "affected_women": "NA",
+      "affected_children": "NA",
+      "civilian_properties_damage": "TRUE",
+      "civilian_forced_displacement": "NA",
+      "civilian_fatalities": 0,
+      "armed_personnel_fatalities": "NA",
+      "number_of_people_displaced": "NA",
+      "involved_parties": [
+        "Military"
+      ]
+    }
+  ]
+}

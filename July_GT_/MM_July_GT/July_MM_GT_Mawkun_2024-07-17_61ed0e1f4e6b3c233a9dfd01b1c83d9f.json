@@ -1,0 +1,14 @@
+{
+  "crisis_type": "Armed Conflict",
+  "location": "မိုးကုတ်မြို့နယ်, မန္တလေးတိုင်းဒေသကြီး, မြန်မာ",
+  "date": "၁၈.၀၇.၂၀၂၄",
+  "affect_civilian": "TRUE",
+  "affect_women": "TRUE",
+  "affect_children": "TRUE",
+  "civilian_properties_damage": "TRUE",
+  "civilian_forced_displacement": "NA",
+  "civilian_fatalities": "10",
+  "armed_personnel_fatalities": "NA",
+  "number_of_people_displaced": "NA",
+  "involved_parties": ["စစ်တပ်"]
+}
